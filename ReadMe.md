@@ -15,5 +15,5 @@ List of related repositories :
 
 Map
 -
-Map connecting related repositories
+Map about related repositories
 ![MetaMap](https://github.com/iPlumb3r/Meta/blob/master/Images/MetaMap.png)
