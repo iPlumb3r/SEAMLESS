@@ -9,7 +9,7 @@ Repositories
 -
 List of related repositories :   
 * <a href="https://github.com/iPlumb3r/The_M_Ontology">The "M" Ontology</a> : A skeleton Ontology for building semantic-driven PLM    
-* <a href="https://github.com/iPlumb3r/EntangledBootstrap_Topincs">Entangled Bootstrap (Powered by Topincs)</a> : A semantic cartography about the intersection between #SemanticWeb & #DistributedWeb ecosystems   
+* <a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a> : A semantic cartography about the intersection between #SemanticWeb & #DistributedWeb ecosystems   
 * <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">Business Application Specification</a> : A Methodology for Specifying Ontology-Driven Business Applications   
 * <a href="https://github.com/iPlumb3r/Dicho-Scope">Dicho-Scope</a> : A "Separation Of Concerns" - based tool for analysing knowledge domains    
 
