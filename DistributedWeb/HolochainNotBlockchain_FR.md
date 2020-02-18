@@ -59,3 +59,17 @@ Les fondementaux (Le Comment ?)
 Deux spécificités (approche "user centric" et crypto - "<a href="https://github.com/iPlumb3r/Meta/blob/master/DistributedWeb/MutualCredit_FR.md">credit-mutuel</a>") donnent à <a href="https://holochain.org/">Holochain</a> un __fort pouvoir de disruption__ par rapport aux approches blockchain traditionnelles. En effet :
 
 ![Holochain VS Blockchain](https://github.com/iPlumb3r/Meta/blob/master/Images/HolochainVSBlockchain_2020-02-18.png)
+
+Ressources
+-
+Pour allez plus loin sur ce sujet, ci-après quelques liens :
+
+__En français__ : 
+* 1
+* 2
+* 3
+
+__En anglais : 
+* 1
+* 2
+* 3
