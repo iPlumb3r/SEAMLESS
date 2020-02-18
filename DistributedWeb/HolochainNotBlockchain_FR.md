@@ -42,13 +42,13 @@ Pour cela, il est nécessaire :
     </tbody>
 </table>
 
-<a href="https://holochain.org/">Holochain</a> doit permettre à terme de développer des alternatives totalement distribuées aux grandes applications centralisées actuellement proposées par les géants du Web :
+<a href="https://holochain.org/">Holochain</a> doit permettre à terme de développer des __alternatives totalement distribuées__ aux grandes applications centralisées actuellement proposées par les géants du Web :
 * Applications “métiers” : Uber, AirBnB, Booking, Just Eat, ...
 * Applications “fonctionnelles” : Facebook, Twitter, Instagram, Snapchat, ...
 
 Cf quelques exemples de <a href="https://telegra.ph/Holochain-Projects-10-18">projets</a> et/ou d’<a href="https://github.com/holochain/apps">applications</a> basés sur Holochain
 
-Les promesses du projet <a href="https://holochain.org/">Holochain</a> sont les suivantes :
+Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont les suivantes :
 * Maîtriser son identité en ligne via une <a href="https://medium.com/holochain/holovault-personas-profiles-95de4f370a1b">serie de profils</a> adaptée à chacune de ses activités (i.e. en fonction de la nature de ses interactions : professionnelle, amicale, familiale, …)
 * Permettre aux utilisateurs de reprendre le contrôle de leur données personnelles
 * Déployer des solutions résilientes et résistantes à la censure
