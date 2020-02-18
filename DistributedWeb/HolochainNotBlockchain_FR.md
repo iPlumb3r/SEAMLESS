@@ -56,6 +56,6 @@ Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont 
 
 Les fondementaux (Le Comment ?)
 -
-Deux spécificités (approche "user centric" et crypto - "credit-mutuel") donnent à <a href="https://holochain.org/">Holochain</a> un __fort pouvoir de disruption__ par rapport aux approches blockchain traditionnelles. En effet :
+Deux spécificités (approche "user centric" et crypto - "<a href="https://github.com/iPlumb3r/Meta/blob/master/DistributedWeb/MutualCredit_FR.md">credit-mutuel</a>") donnent à <a href="https://holochain.org/">Holochain</a> un __fort pouvoir de disruption__ par rapport aux approches blockchain traditionnelles. En effet :
 
 ![Holochain VS Blockchain](https://github.com/iPlumb3r/Meta/blob/master/Images/HolochainVSBlockchain_2020-02-18.png)
