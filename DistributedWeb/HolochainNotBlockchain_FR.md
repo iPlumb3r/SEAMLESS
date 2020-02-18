@@ -48,7 +48,7 @@ Pour cela, il est nécessaire :
 
 Cf quelques exemples de <a href="https://telegra.ph/Holochain-Projects-10-18">projets</a> et/ou d’<a href="https://github.com/holochain/apps">applications</a> basés sur Holochain
 
-La 1ère application du protocole <a href="https://holochain.org/">Holochain</a>, s'applelle <a href="https://holo.host/">Holo</a> ...
+La 1ère application du protocole <a href="https://holochain.org/">Holochain</a>, s'applelle <a href="https://holo.host/">Holo</a> ...   
 ... et elle vise à proposer une solutiond d'herbergement "cloud" (type <a href="https://aws.amazon.com/fr/">AWS</a>) totalement distribué.
 
 Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont les suivantes :
