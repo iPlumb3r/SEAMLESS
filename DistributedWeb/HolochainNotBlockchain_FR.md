@@ -41,3 +41,9 @@ Pour cela, il est nécessaire :
         </tr>
     </tbody>
 </table>
+
+<a href="https://holochain.org/">Holochain</a> doit permettre à terme de développer des alternatives totalement distribuées aux grandes applications centralisées actuellement proposées par les géants du Web :
+* Applications “métiers” : Uber, AirBnB, Booking, Just Eat, ...
+* Applications “fonctionnelles” : Facebook, Twitter, Instagram, Snapchat, ...
+
+Cf quelques exemples de <a href="https://telegra.ph/Holochain-Projects-10-18">projets</a> et/ou d’<a href="https://github.com/holochain/apps">applications</a> basés sur Holochain
