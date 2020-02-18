@@ -23,7 +23,7 @@ Les motivations (Le Pourquoi ?)
 -
 <a href="https://holochain.org/">Holochain</a> est un sous-projet d’un projet de plus grande ampleur nommé <a href="http://metacurrency.org/">MetaCurrency</a>.
 
-La vision du projet <a href="http://metacurrency.org/">MetaCurrency</a> est de fournir les outils permettant à des communautés qui partagent des valeurs ou des intérêts communs de __pouvoir se coordonner à large échelle__.
+La vision du projet <a href="http://metacurrency.org/">MetaCurrency</a> est de fournir les outils permettant à des __communautés qui partagent des valeurs__ ou des intérêts communs de __pouvoir se coordonner à large échelle__.
 
 <a href="http://metacurrency.org/">MetaCurrency</a> vise à doter ces communautés d’une intelligence collective ”holomidale” (en réseau) ; car à large échelle, l’intelligence collective “pyramidale” (en hiérarchie, comme les entreprises ou les gouvernements) n’est ni agile, ni résiliente.
 
