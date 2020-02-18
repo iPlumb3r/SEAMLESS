@@ -75,7 +75,7 @@ __En français__ :
 * <a href="https://medium.com/@doute.d/holochain-vers-un-internet-v%C3%A9ritablement-d%C3%A9centralis%C3%A9-d976a5bff3ae">Holochain : vers un internet véritablement décentralisé</a> (Damien Douté)
 
 __En anglais__ : 
-* <a href="<a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" (Art Brock)
+* <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" (Art Brock)
 * <a href="https://holo.host/roadmap/">RoadMap</a>
 * <a href="https://holo.host/roadmap/">RoadMap</a>
 
