@@ -32,11 +32,11 @@ Pour cela, il est nécessaire :
 <table>
     <tbody>
         <tr>
-            <td>De disposer d'une infrastructure permettant d'interagir en mode totalement distribué (via un mécanisme "pair" à "pair" où chacun joue le même rôle)</td>
+            <td>De disposer d'une infrastructure permettant d'interagir en __mode totalement distribué__ (via un mécanisme "pair" à "pair" où chacun joue le même rôle)</td>
             <td>C'est l'objectif du projet <a href="https://holochain.org/">Holochain</a></td>
         </tr>
         <tr>
-            <td>De savoir exactement "de quoi on parle" lorsqu'on échange des informations (car en mode distribué, il est d'autant plus nécessaire d'assurer la cohérence de la sémantique des informations</td>
+            <td>De __savoir exactement "de quoi on parle"__ lorsqu'on échange des informations (car en mode distribué, il est d'autant plus nécessaire d'assurer la cohérence de la sémantique des informations</td>
          <td>C'est l'objectif du projet <a href="http://ceptr.org/">Ceptr</a></td>
         </tr>
     </tbody>
