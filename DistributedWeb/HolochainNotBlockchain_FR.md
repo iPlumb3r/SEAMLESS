@@ -50,7 +50,7 @@ Cf quelques exemples de <a href="https://telegra.ph/Holochain-Projects-10-18">pr
 
 La 1ère application du protocole <a href="https://holochain.org/">Holochain</a>, s'applelle <a href="https://holo.host/">Holo</a> ...   
 ... et elle vise à proposer une solution d'herbergement "cloud" (type <a href="https://aws.amazon.com/fr/">AWS</a>) totalement distribué ...   
-... et elle permettra de rémunéré en Holo Fuel (un crypto - "credit mutuel") les participant au réseau.
+... et elle permettra de rémunéré en Holo Fuel (un crypto - "credit mutuel") les participants au réseau.
 
 Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont les suivantes :
 * Maîtriser son identité en ligne via une <a href="https://medium.com/holochain/holovault-personas-profiles-95de4f370a1b">serie de profils</a> adaptée à chacune de ses activités (i.e. en fonction de la nature de ses interactions : professionnelle, amicale, familiale, …)
