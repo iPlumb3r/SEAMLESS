@@ -6,3 +6,6 @@ __(Vers un web sémantique totalement distribué)__
 
 Key-Words
 -
+#CollectiveIntelligence #FractalSovereignty #LiquidDemocracy #CensorshipResistance #DigitalCommon
+#DecentralizedApplication #DistributedApplication #DecentralizedWeb #DistributedWeb #SemanticWeb #UnstoppableApplication
+#AgentCentricEcosystem #CryptoTechnologies #DNA #DHT #MutualCredit
