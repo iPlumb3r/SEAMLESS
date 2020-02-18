@@ -2,7 +2,7 @@ Holochain : Ceci n'est PAS une #Blockchain !
 ==
 
 __Pitch sur <a href="https://holochain.org/">Holochain</a> et son écosystème__    
-__(Vers un web sémantique totalement distribué)__
+_(Vers un web sémantique totalement distribué)_
 
 Key-Words
 -
