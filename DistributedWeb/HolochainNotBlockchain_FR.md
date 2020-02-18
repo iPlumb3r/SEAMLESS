@@ -25,7 +25,7 @@ Les motivations (Le Pourquoi ?)
 
 La vision du projet <a href="http://metacurrency.org/">MetaCurrency</a> est de fournir les outils permettant à des __communautés qui partagent des valeurs__ ou des intérêts communs de __pouvoir se coordonner à large échelle__.
 
-<a href="http://metacurrency.org/">MetaCurrency</a> vise à doter ces communautés d’une __intelligence collective ”holomidale” (i.e. en réseau)__ ; car à large échelle, l’intelligence collective “pyramidale” (en hiérarchie, comme les entreprises ou les gouvernements) n’est ni agile, ni résiliente.
+<a href="http://metacurrency.org/">MetaCurrency</a> vise à doter ces communautés d’une __intelligence collective ”holomidale” (i.e. en réseau)__ ; car à large échelle, l’intelligence collective “pyramidale” (en hiérarchie, comme les entreprises ou les gouvernements) n’est ni performante, ni agile, ni résiliente.
 
 Pour cela, il est nécessaire :
 
