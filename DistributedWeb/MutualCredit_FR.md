@@ -21,4 +21,6 @@ Remarque : l’entreprise HOLO va assumer l’ensemble du débit généré par l
 
 Resources
 -
+https://holo.host/holo-fuel/
+https://holochain.fr/
 https://twitter.com/lifesmyth/status/1228850478953484290
