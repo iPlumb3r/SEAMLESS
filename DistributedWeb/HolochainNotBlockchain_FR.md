@@ -28,3 +28,16 @@ La vision du projet <a href="http://metacurrency.org/">MetaCurrency</a> est de f
 <a href="http://metacurrency.org/">MetaCurrency</a> vise à doter ces communautés d’une intelligence collective ”holomidale” (en réseau) ; car à large échelle, l’intelligence collective “pyramidale” (en hiérarchie, comme les entreprises ou les gouvernements) n’est ni agile, ni résiliente.
 
 Pour cela, il est nécessaire :
+
+<table>
+    <tbody>
+        <tr>
+            <td>De disposer d'une infrastructure permettant d'interagir en mode totalement distribué (via un mécanisme "pair" à "pair" où chacun joue le même rôle)</td>
+            <td>C'est l'objectif du projet <a href="https://holochain.org/">Holochain</a></td>
+        </tr>
+        <tr>
+            <td>De savoir exactement "de quoi on parle" lorsqu'on échange des informations (car en mode distribué, il est d'autant plus nécessaire d'assurer la cohérence de la sémantique des informations</td>
+         <td>C'est l'objectif du projet <a href="http://ceptr.org/">Ceptr</a></td>
+        </tr>
+    </tbody>
+</table>
