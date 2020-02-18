@@ -60,10 +60,10 @@ Deux spécificités (approche "user centric" et crypto - "<a href="https://githu
 
 ![Holochain VS Blockchain](https://github.com/iPlumb3r/Meta/blob/master/Images/HolochainVSBlockchain_2020-02-18.png)
 
-Status / RoadMap
+Status / <a href="https://holo.host/roadmap/">Holochain</a>
 -
 Le projet est actuellement en phase 3, étape "Closed Alpha Testnet"
-https://holo.host/roadmap/
+
 
 Ressources
 -
