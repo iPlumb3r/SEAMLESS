@@ -32,7 +32,7 @@ Pour cela, il est nécessaire :
 <table>
     <tbody>
         <tr>
-            <td>De disposer d'une infrastructure permettant d'interagir en mode totalement distribué (via un mécanisme "pair" à "pair" où chacun joue le même rôle)</td>
+            <td>De disposer d'une infrastructure permettant d'interagir en mode totalement distribué (via un mécanisme "pair à pair" où chacun joue le même rôle)</td>
             <td>C'est l'objectif du projet <a href="https://holochain.org/">Holochain</a></td>
         </tr>
         <tr>
