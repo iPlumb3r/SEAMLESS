@@ -50,8 +50,8 @@ Les livrables (Le Quoi ?)
 
 Cf quelques exemples de <a href="https://telegra.ph/Holochain-Projects-10-18">projets</a> et/ou d’<a href="https://github.com/holochain/apps">applications</a> basés sur Holochain
 
-La 1ère application du protocole <a href="https://holochain.org/">Holochain</a>, s'applelle <a href="https://holo.host/">Holo</a> ...   
-... et elle vise à proposer une solution d'herbergement "cloud", type <a href="https://aws.amazon.com/fr/">AWS</a>), MAIS totalement distribué ...   
+La 1ère application du protocole <a href="https://holochain.org/">Holochain</a>, s'applelle <a href="https://holo.host/">Holo</a> :   
+=> elle vise à proposer une solution d'herbergement "cloud", type <a href="https://aws.amazon.com/fr/">AWS</a>), MAIS totalement distribué ...   
 ... et elle permettra de rémunérer en Holo Fuel (un crypto - "credit mutuel") les participants au réseau.
 
 Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont les suivantes :
