@@ -42,6 +42,8 @@ Pour cela, il est nécessaire :
     </tbody>
 </table>
 
+Les livrables (Le Quoi ?)
+-
 <a href="https://holochain.org/">Holochain</a> doit permettre à terme de développer des __alternatives totalement distribuées__ aux grandes applications centralisées actuellement proposées par les géants du Web :
 * Applications “métiers” : Uber, AirBnB, Booking, Just Eat, ...
 * Applications “fonctionnelles” : Facebook, Twitter, Instagram, Snapchat, ...
