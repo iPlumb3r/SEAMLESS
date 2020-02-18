@@ -73,3 +73,7 @@ __En anglais :
 * 1
 * 2
 * 3
+
+Glossaire
+-
+![Holochain VS Blockchain](https://github.com/iPlumb3r/Meta/blob/master/Images/Holochain_Glossary_2020-02-18.png)
