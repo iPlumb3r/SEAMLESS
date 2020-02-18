@@ -70,9 +70,9 @@ Ressources
 Pour allez plus loin sur ce sujet, ci-après quelques liens :
 
 __En français__ : 
-* 1
-* 2
-* 3
+* <a href="https://noubel.com/holochain-vers-lintelligence-sociale-augmentee/">Vers l’intelligence sociale augmentée</a> (Jean-François Noubel)
+* <a href="https://medium.com/@raphaelbriner/holochain-pour-les-presque-nuls-4d109709c1f1">Holochain pour les -presque- nuls</a> (Raphael Briner)
+* <a href="https://medium.com/@doute.d/holochain-vers-un-internet-v%C3%A9ritablement-d%C3%A9centralis%C3%A9-d976a5bff3ae">Holochain : vers un internet véritablement décentralisé</a> (Damien Douté)
 
 __En anglais : 
 * 1
