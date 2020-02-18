@@ -12,7 +12,7 @@ Key-Words
 
 Introduction - Contexte
 -
-Holochain est sans doute un des projets les plus enthousiasmant du moment …   
+<a href="https://holochain.org/">Holochain</a> est sans doute un des projets les plus enthousiasmant du moment …   
 … mais il est assez difficile à appréhender dans son entièreté en peu de temps !
 
 Pour commencer à comprendre ce projet, il est nécessaire de s’intéresser :
