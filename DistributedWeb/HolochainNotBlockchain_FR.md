@@ -53,3 +53,7 @@ Les __promesses__ du projet <a href="https://holochain.org/">Holochain</a> sont 
 * Permettre aux utilisateurs de reprendre le contrôle de leur données personnelles
 * Déployer des solutions résilientes et résistantes à la censure
 * Résoudre les problèmes de scalabilité, de performance et de coût de la blockchain
+
+Les fondementaux (Le Comment ?)
+-
+Deux spécificités donnent à <a href="https://holochain.org/">Holochain</a> un __fort pouvoir de disruption__ par rapport aux approches blockchain traditionnelles. En effet :
