@@ -77,7 +77,7 @@ __En français__ :
 __En anglais__ : 
 * <a href="https://medium.com/holochain/unenclosable-carriers-and-the-future-of-communication-4ac6045ac894">Unenclosable Carriers and the Future of Communication</a>" (Art Brock)
 * <a href="https://medium.com/h-o-l-o/heres-holochain-in-100-200-and-500-words-509818aa3c88">Holochain in few words (100, 200 & 500 words)</a>
-* <a href="https://holo.host/roadmap/">RoadMap</a>
+* <a href="https://unblock.net/introduction-holochain/">Introduction to Holochain, A Post-Blockchain Crypto Technology</a>
 
 Glossaire
 -
