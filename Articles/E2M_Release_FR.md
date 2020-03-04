@@ -18,11 +18,15 @@ Problématique à résoudre
 > Veille Technologique, Veille Concurrentielle, Positionnement Produits / Marchés, …
 
 
+![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
+
 Sémantique Sous-Jacente
 -
-   - Approche INT vs EXT
-   -  Conceptionary
-   - Modèle conceptuel simplifié
+* Approche INT vs EXT
+* Conceptionary
+* Modèle conceptuel simplifié
+
+![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 Ontologies correspondantes
 -
@@ -32,7 +36,8 @@ Ontologies correspondantes
    
 
 Fonctionnalités recherchées
-* Model-Drive Mode
+-
+* Model-Driven Mode
 * Model-Discovery Mode
 * Reconciliation Mode
 
