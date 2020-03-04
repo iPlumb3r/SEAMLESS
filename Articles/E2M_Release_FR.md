@@ -91,6 +91,10 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
     </tbody>
 </table>
 
+Resources
+-
+GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel>E2M Repository</a>
+Telegram : <a href="https://t.me/EntangledBootstrap>EBR Group</a> (Projets liés)
    
 
 
