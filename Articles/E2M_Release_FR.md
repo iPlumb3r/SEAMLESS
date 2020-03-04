@@ -118,7 +118,7 @@ Modules "Intentionnel" & "Extensionnel" (Complet)
 -
 ![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-05.png)
 
-Resources
+Ressources
 -
 GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
 Telegram : <a href="https://t.me/EntangledBootstrap">"Entangled Bootstrap" Repository (EBR) Group"</a> (Projets liés)   
