@@ -53,8 +53,16 @@ Un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Sema
 Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation entres concepts intentioanl et cocnept extentionels :
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
+Fonctionnalités recherchées
+-
+* Model-Driven Mode
+* Model-Discovery Mode
+* Reconciliation Mode
+
 Ontologies correspondantes
 -
+Le modèle E2M est décliné pour les 3 formalismes suivants ...   
+... et adapté pour certains outils :
 
 <table>
     <thead>
@@ -82,20 +90,7 @@ Ontologies correspondantes
         </tr>
     </tbody>
 </table>
-* OWL (For any OWL compliant tool)
-* Topic Maps (e.g. for Topincs)
-* KL (Only for KeepLink)
+
    
 
-Fonctionnalités recherchées
--
-* Model-Driven Mode
-* Model-Discovery Mode
-* Reconciliation Mode
 
-Prototypes
-* Topincs
-* KeepLink
-
-> Tableau Comparatif
--
