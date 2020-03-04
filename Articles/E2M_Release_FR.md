@@ -104,7 +104,7 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
     </tbody>
 </table>
 
-Ci-joint les liens vers differentes spécification d'ontologies :
+Ci-joint les liens vers les differentes spécification d'ontologies :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/OWL-Ontology.md">OWL Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
