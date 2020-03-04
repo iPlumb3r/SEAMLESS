@@ -103,6 +103,20 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
     </tbody>
 </table>
 
+Ci-joint les liens vers differentes spécification d'ontologies :
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/OWL-Ontology.md">OWL Ontology</a>
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
+
+Intentional Facet (Complete)
+-
+![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_2020-03-04.png)
+
+
+Whole Ontology (Intentional + Extensional Facets)
+-
+![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-05.png)
+
 Resources
 -
 GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
