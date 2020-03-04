@@ -3,7 +3,7 @@ Un modèle pour la cartographie sémantique d'écosystème
 
 Introduction
 -
-Chacun d'entre nous, pour des raisons diverses et variées (e.g. veille currentielle, veille produit, étude de marché, veille technologique, démarche entrepreunariale, développement de produit, ...) sommes à conduit à "cartographier", plus ou moins formellement 
+Chacun d'entre nous, pour des raisons diverses et variées (e.g. veille currentielle, veille produit, étude de marché, veille technologique, démarche entrepreunariale, développement de produit, ...) sommes à conduit à "cartographier", plus ou moins formellement (et en utilisant des outils plus ou moins adaptés), l'environnnement dans lequel on évolue ou celui dans lequel on souhaite évoluer dans le futur !
 
 
 Cartographier son environnement permet d'avoir une vision à la fois globale et détaillé de celui-ci ...   
