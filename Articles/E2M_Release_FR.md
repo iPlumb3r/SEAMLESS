@@ -55,11 +55,11 @@ Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation
 
 Fonctionnalités recherchées
 -
-Réaliser une telle carte nécessite - idéalement - de pouvoir s'appuyer sur 2 mode fonctionel diamétrable opposé, mais totalement complémentaire. Il s'agit des mode suivants :
-* Model-Driven Mode
-* Model-Discovery Mode 
+Réaliser une telle carte nécessite - idéalement - de pouvoir s'appuyer sur 2 modes fonctionels diamétralement opposés, mais totalement complémentaires. Il s'agit des modes suivants :
+* Mode "Model-Driven"
+* Mode "Model-Discovery" 
 
-Remarque : Le 2nd mode, requiert ) là encore idéalement - un mode de réconsiliation
+Remarque : Le 2nd mode, requiert - là encore idéalement - un mode de réconsiliation
 
 Plus d'information sur ces modes fonctionels <a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functionalities">dans cette page</a>
 
@@ -73,6 +73,8 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
         <tr>
             <th>Ontologie</th>
             <th>Outil</th>
+            <th>Mode</th>
+            <th>Usage</th>   
             <th>Commentaires</th>
         </tr>
     </thead>
@@ -80,16 +82,22 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
         <tr>
             <td>OWL</td>
             <td>N'importe que outil "OWL-Compliant"</td>
+            <td>En fonction de l'outil</td>
+            <td>En fonction de l'outil</td>
             <td>En attente de <a href="http://semapps.org/">SemApps</a></td>
         </tr>
         <tr>
             <td>Topic Maps</td>
-            <td>Par exemple pour <a href="http://keeplink.com/">Topincs</a></td>
+            <td>Par exemple pour <a href="https://www.topincs.com/">Topincs</a></td>
+            <td>Mode "Model-Driven" uniquement</td>
+            <td>Web / Multi-Utilisateur</td>
             <td>Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a></td>
         </tr>
         <tr>
             <td>KL</td>
-            <td>Uniquement pour <a href="https://www.topincs.com/">KeepLink</a></td>
+            <td>Uniquement pour <a href="http://keeplink.com/">KeepLink</a></td>
+            <td>Mode "Model-Driven" et "Model-Discovery" (sans réconsiliation)</td>
+            <td>iDevice / Mono-Utilisateur (Mode "Collaboration" à venir)</td>
             <td>En cours de paramétrage du modèle</td>
         </tr>
     </tbody>
