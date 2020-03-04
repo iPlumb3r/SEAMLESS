@@ -40,7 +40,7 @@ L'approche méthodologique permettant de proposer le modèle E2M s'appuie princi
 
 Un article décrivant plus en détail cette approche "Intention VS Extension" est disponible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">ici</a>.
 
-L'expérience montre que globalement, __l'intention est plus importante que l'extension__, et que souvent les modèles sont "pollués" par l'extension des choses (lorqu'ils sont conçus de manière "monolithique"). 
+L'expérience montre que globalement, __l'intention est plus importante que l'extension__, et que souvent les modèles sont "pollués" par l'extension des choses (lorqu'ils sont conçus de manière trop "monolithique"). 
 
 Gérer ces 2 notions de manière "orthogonales" permet de disposer d'un modèle plus compact, plus robuste et plus evolutif, car basé sur 2 modules clefs :
 * un module "intensionel" qui apporte de la généricité et permet d'adresser une grande diversité d'écosystèmes
