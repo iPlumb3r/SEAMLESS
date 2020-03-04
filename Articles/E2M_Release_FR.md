@@ -1,6 +1,10 @@
 Un modèle pour la cartographie sémantique d'écosystème
 ==
 
+Tags
+-
+#EcosystemMapping #SemanticCartography #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement 
+
 Introduction
 -
 Chacun d'entre nous, pour des __raisons diverses et variées__ (e.g. veille concurrentielle, veille produit, étude de marché, veille technologique, démarche entrepreneuriale, développement de produit, ...) sommes à conduit à "cartographier", __plus ou moins formellement__ (et en utilisant des outils __plus ou moins adaptés__), l'environnement dans lequel on évolue actuellement (ou celui dans lequel on souhaite évoluer dans le futur) !
@@ -12,10 +16,6 @@ Le modèle E2M (Ecosytem Mapping Model) visent à répondre à ce besoin en prop
 * Une approche méthodologique
 * Un modèle (décliné selon différents formalismes)
 * Des propositions d'outils cibles (selon les fonctions requises et l'usage)
-
-Tags
--
-#EcosystemMapping #SemanticCartography #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement 
 
 Problématique à résoudre
 -
