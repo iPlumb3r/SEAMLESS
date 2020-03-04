@@ -48,16 +48,20 @@ Gérer ces 2 notions de manière "orthogonales" (i.e. "indépendement", mais en 
 
 Sémantique Sous-Jacente
 -
-Un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic/Conceptionary">conceptionary</a> permet de descrire les concepts utilisé par E2M
+Un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic/Conceptionary">conceptionary</a> permet de descrire les concepts utilisé par E2M (Work in prodress ...)
 
 Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation entres concepts intentioanl et cocnept extentionels :
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 Fonctionnalités recherchées
 -
+Réaliser une telle carte nécessite - idéalement - de pouvoir s'appuyer sur 2 mode fonctionel diamétrable opposé, mais totalement complémentaire. Il s'agit des mode suivants :
 * Model-Driven Mode
-* Model-Discovery Mode
-* Reconciliation Mode
+* Model-Discovery Mode 
+
+Remarque : Le 2nd mode, requiert ) là encore idéalement - un mode de réconsiliation
+
+Plus d'information sur ces modes fonctionels <a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functionalities">dans cette page</a>
 
 Ontologies correspondantes
 -
