@@ -121,7 +121,7 @@ Modules "Intentionel" & "Extentionel"
 Resources
 -
 GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
-Telegram : <a href="https://t.me/EntangledBootstrap">EBR Group"</a>EBR Group</a> (Projets liés)   
+Telegram : <a href="https://t.me/EntangledBootstrap">"Entangled Bootstrap" Repository (EBR) Group"</a> (Projets liés)   
 Twitter : <a href="https://twitter.com/iPlumb3r">Semantic Cartography Flux</a>
 
 
