@@ -108,12 +108,12 @@ Ci-joint les liens vers differentes spécification d'ontologies :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
 
-Intentional Facet (Complete)
+Module "Intentionel" (Simplifié) 
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_2020-03-04.png)
+![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
 
 
-Whole Ontology (Intentional + Extensional Facets)
+Modules "Intentionel" & "Extentionel"
 -
 ![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-05.png)
 
