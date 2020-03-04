@@ -73,7 +73,7 @@ Ontologies correspondantes
         <tr>
             <td>Topic Maps</td>
             <td>Par exemple pour <a href="http://keeplink.com/">Topincs</a></td>
-            <td>B3</td>
+            <td>Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a></td>
         </tr>
         <tr>
             <td>KL</td>
