@@ -49,7 +49,7 @@ Gérer ces 2 notions de manière "orthogonales" (i.e. "indépendamment", mais en
 Sémantique Sous-Jacente
 -
 Un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic/Conceptionary">conceptionary</a> permet de descrire les concepts utilisé par E2M   
-_(Work in prodress ...)_
+_(Work in progress ...)_
 
 Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation entres concepts intentionnels et concepts extensionnels :
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
