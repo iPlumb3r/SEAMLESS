@@ -32,9 +32,16 @@ En effet, lorsqu'on cherche à appréhender un écosystème, on essaye en fait d
 
 Il est évidement possible de se poser d'autres questions très pertinentes à propos de son environement, toujours est-il que le périmètre de E2M est - pour l'instant - limité à ces 5 questions ;-)
 
+Approche méthodologique
+-
+L'approche méthodologique permettant de proposer le modèle E2M s'appuie essentielemment sur le fait de distinguer en chaque chose que l'on doit identifier dans la "carte" (afin de pouvoir le mettre en relation avec d'autres éléments) : 
+* d'une part son "intention" (notion qui renvoi à la raison pour laquelle la chose doit être 
+* d'autre part son "extension" (notion qui renvoi à la nature de la chose)
+
+Un article décrivant plus en détail cette approche "Intention VS Extension" est disponible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">ici</a>.
+
 Sémantique Sous-Jacente
 -
-* Approche INT vs EXT
 * Conceptionary
 * Modèle conceptuel simplifié
 
