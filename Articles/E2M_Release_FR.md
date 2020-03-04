@@ -116,7 +116,7 @@ Module "Intentionnel" (Simplifié)
 
 Modules "Intentionnel" & "Extensionnel" (Complet)
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-05.png)
+![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-06.png)
 
 Ressources
 -
