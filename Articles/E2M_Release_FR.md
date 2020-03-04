@@ -5,8 +5,7 @@ Introduction
 -
 Chacun d'entre nous, pour des raisons diverses et variées (e.g. veille currentielle, veille produit, étude de marché, veille technologique, démarche entrepreunariale, développement de produit, ...) sommes à conduit à "cartographier", plus ou moins formellement (et en utilisant des outils plus ou moins adaptés), l'environnnement dans lequel on évolue ou celui dans lequel on souhaite évoluer dans le futur !
 
-
-Cartographier son environnement permet d'avoir une vision à la fois globale et détaillé de celui-ci ...   
+En effet, cartographier son environnement permet d'avoir une vision à la fois globale et détaillé de celui-ci ...   
 ... afin de pouvoir mieux agir dessus
 
 Tags
@@ -15,8 +14,14 @@ Tags
 
 Problématique à résoudre
 -
-> Veille Technologique, Veille Concurrentielle, Positionnement Produits / Marchés, …
+Les environnements on beau être très différents d'un cas à l'autre, il s'avère que les questions que lon se posent à leur propos, mais égalements concepts qui *structurent* ces environnements sont - globalement - toujours les mêmes (ce sont en quelque sorte les *invariants métiers* du domaine de connaissances "ecosystem mapping").
 
+En effet, lorsqu'on cherche à appréhender un écosystème, on essaye en fait de répondre au quintuple questionnement suivant : 
+* QUOI ?
+* Fait QUOI ?
+* COMMENT ?
+* Pour QUOI ?
+* Et POURQUOI ?
 
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
