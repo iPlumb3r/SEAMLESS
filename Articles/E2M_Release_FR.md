@@ -1,17 +1,15 @@
 Un modèle pour la cartographie sémantique d'écosystème
 ==
 
-
 Introduction
 -
-
+Chacun d'entre nous, pour des raisons diverses et variées (e.g. veille currentielle, veille produit, étude de marché, veille technologique, développement de produit, ...) somme à conduit à "cartographier", plus ou moins formellement l'environnement dans lequel on évoluer ou celui dans lequel on souhaite écoluer dans le future ... 
 Cartographier son environnement permet d'avoir une vision à la fois globale et détaillé de celui-ci ...   
 ... afin de pouvoir mieux agir dessus
 
 Tags
 -
-#EcosystemMapping #SemanticCartography #MapYourEnvironment #EffectuationMethodology #ProductWatch #MarketWatch #TechnologicalWatch #ProductLifecycleManagement
-
+#EcosystemMapping #SemanticCartography #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement 
 
 Problématique à résoudre
 -
