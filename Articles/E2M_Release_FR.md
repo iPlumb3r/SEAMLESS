@@ -105,8 +105,8 @@ Le modèle E2M est décliné pour les 3 formalismes suivants ...
 
 Resources
 -
-GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>
-Telegram : <a href="https://t.me/EntangledBootstrap>EBR Group"</a>EBR Group</a> (Projets liés)
+GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
+Telegram : <a href="https://t.me/EntangledBootstrap>EBR Group"</a>EBR Group</a> (Projets liés)   
 Twitter : <a href="https://twitter.com/iPlumb3r">Semantic Cartography Flux</a>
 
 
