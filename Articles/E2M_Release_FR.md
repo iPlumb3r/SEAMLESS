@@ -55,6 +55,33 @@ Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation
 
 Ontologies correspondantes
 -
+
+<table>
+    <thead>
+        <tr>
+            <th>Ontologie</th>
+            <th>Outil</th>
+            <th>Commentaires</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>OWL</td>
+            <td>N'importe que outil "OWL-Compliant"</td>
+            <td>En attente de <a href="http://semapps.org/">SemApps</a></td>
+        </tr>
+        <tr>
+            <td>Topic Maps</td>
+            <td>Par exemple pour <a href="http://keeplink.com/">Topincs</a></td>
+            <td>B3</td>
+        </tr>
+        <tr>
+            <td>KL</td>
+            <td>Uniquement pour <a href="https://www.topincs.com/">KeepLink</a></td>
+            <td>En cours de paramétrage du modèle</td>
+        </tr>
+    </tbody>
+</table>
 * OWL (For any OWL compliant tool)
 * Topic Maps (e.g. for Topincs)
 * KL (Only for KeepLink)
