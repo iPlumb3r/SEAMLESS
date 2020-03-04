@@ -42,7 +42,7 @@ Un article décrivant plus en détail cette approche "Intention VS Extension" es
 
 L'expérience montre que globalement, __l'intention est plus importante que l'extension__, et que souvent les modèles sont "pollués" par l'extension des choses (lorqu'ils sont conçus de manière trop "monolithique"). 
 
-Gérer ces 2 notions de manière "orthogonales" permet de disposer d'un modèle plus compact, plus robuste et plus evolutif, car basé sur 2 modules clefs :
+Gérer ces 2 notions de manière "orthogonales" (i.e. "indépendement", mais en possible connexion) permet de disposer d'un modèle plus compact, plus robuste et plus evolutif, car basé sur 2 modules clefs :
 * un module "intensionel" qui apporte de la généricité et permet d'adresser une grande diversité d'écosystèmes
 * un module "extensionel" qui apporte de la spécificité et qui sert de "racine" à des sous-modules permetant d'adresser des écosystèmes particuliers 
 
