@@ -10,7 +10,7 @@ En effet, cartographier son environnement permet d'avoir une vision à la fois g
 
 Le modèle E2M (Ecosytem Mapping Model) visent à répondre à ce besoin en proposant :
 * Une approche méthodologique
-* Un modèle (décliné sont différents formalismes)
+* Un modèle (décliné selon différents formalismes)
 * Des propositions d'outils cibles (selon les fonctions requises et l'usage)
 
 Tags
