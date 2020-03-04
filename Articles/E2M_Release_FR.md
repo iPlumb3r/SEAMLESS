@@ -19,7 +19,7 @@ Tags
 
 Problématique à résoudre
 -
-Les environnements ont beau être potentiellement __très différents__ d'un cas à l'autre, il s'avère que les questions que lon se posent à leur propos, mais égalements concepts qui *structurent* ces environnements sont - globalement - toujours les __mêmes__ (ce sont en quelque sorte les *invariants métiers* du domaine de connaissances "ecosystem mapping").
+Les environnements ont beau être potentiellement __très différents__ d'un cas à l'autre, il s'avère que les questions que l'on se posent à leur propos, mais égalements concepts qui *structurent* ces environnements sont - globalement - toujours les __mêmes__ (ce sont en quelque sorte les *invariants métiers* du domaine de connaissances "ecosystem mapping").
 
 En effet, lorsqu'on cherche à appréhender un écosystème, on essaye en fait de répondre au quintuple questionnement suivant : 
 * QUOI ?
