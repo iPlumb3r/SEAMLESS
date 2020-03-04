@@ -30,6 +30,8 @@ En effet, lorsqu'on cherche à appréhender un écosystème, on essaye en fait d
 
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
+Il est évidement possible de se poser d'autres questions très pertinentes à propos de son environement, toujours est-il que le périmètre de E2M est - pour l'instant - limité à ces 5 questions ;-)
+
 Sémantique Sous-Jacente
 -
 * Approche INT vs EXT
