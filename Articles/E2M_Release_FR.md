@@ -5,7 +5,7 @@ Introduction
 -
 Chacun d'entre nous, pour des __raisons diverses et variées__ (e.g. veille currentielle, veille produit, étude de marché, veille technologique, démarche entrepreunariale, développement de produit, ...) sommes à conduit à "cartographier", __plus ou moins formellement__ (et en utilisant des outils __plus ou moins adaptés__), l'environnnement dans lequel on évolue actuellement (ou celui dans lequel on souhaite évoluer dans le futur) !
 
-En effet, cartographier son environnement permet d'avoir une vision à la fois globale et détaillé de celui-ci ...   
+En effet, cartographier son environnement permet d'avoir une vision à la fois globale et précise de celui-ci ...   
 ... afin de pouvoir mieux agir dessus.
 
 Le modèle E2M (Ecosytem Mapping Model) visent à répondre à ce besoin en proposant :
