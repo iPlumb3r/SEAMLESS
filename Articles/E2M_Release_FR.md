@@ -30,7 +30,7 @@ En effet, lorsqu'on cherche à __appréhender un écosystème__, on essaye __ess
 
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
-Il est évidement possible de se poser d'autres questions très pertinentes à propos de son environement, toujours est-il que le périmètre de E2M est - pour l'instant - limité à ces 5 questions ;-)
+Il est évidement possible de se poser d'autres questions très pertinentes à propos de son environnement, toujours est-il que le périmètre de E2M est - pour l'instant - limité à ces 5 questions ;-)
 
 Approche méthodologique
 -
