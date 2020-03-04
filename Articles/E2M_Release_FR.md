@@ -61,7 +61,7 @@ Réaliser une telle carte nécessite - idéalement - de pouvoir s'appuyer sur 2 
 
 Remarque : Le 2nd mode, requiert - là encore idéalement - un mode de réconsiliation en complément
 
-Plus d'information sur ces modes fonctionels <a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/4_Functionalities">dans cette page</a>
+Plus d'information sur ces modes fonctionels <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/4_Functionalitites/FunctionalModes.md">dans cette page</a>
 
 Ontologies correspondantes
 -
