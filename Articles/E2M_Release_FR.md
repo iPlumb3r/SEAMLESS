@@ -40,7 +40,7 @@ L'approche méthodologique permettant de proposer le modèle E2M s'appuie essent
 
 Un article décrivant plus en détail cette approche "Intention VS Extension" est disponible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">ici</a>.
 
-L'expérience montre que globalement, l'intention est plus importante que l'extension, et que souvent les modèles sont "pollués" par l'extension des choses (quand ils sont conçus de manière "monolithique"). 
+L'expérience montre que globalement, __l'intention est plus importante que l'extension__, et que souvent les modèles sont "pollués" par l'extension des choses (lorqu'ils sont conçus de manière "monolithique"). 
 
 Gérer ces 2 notions de manière "orthogonales" permet de disposer d'un modèle plus compact, plus robuste et plus evolutif, car basé sur 2 modules clefs :
 * un module "intensionel" qui apporte de la généricité et permet d'adresser une grande diversité d'écosystèmes
@@ -48,9 +48,9 @@ Gérer ces 2 notions de manière "orthogonales" permet de disposer d'un modèle 
 
 Sémantique Sous-Jacente
 -
-* Conceptionary
-* Modèle conceptuel simplifié
+Un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Semantic/Conceptionary">conceptionary</a> permet de descrire les concepts utilisé par E2M
 
+Le modèle conceptuel simplifié permet de visualer "grosse maille" les relation entres concepts intentioanl et cocnept extentionels :
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 Ontologies correspondantes
