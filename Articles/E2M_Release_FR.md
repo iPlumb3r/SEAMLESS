@@ -35,10 +35,16 @@ Il est évidement possible de se poser d'autres questions très pertinentes à p
 Approche méthodologique
 -
 L'approche méthodologique permettant de proposer le modèle E2M s'appuie essentielemment sur le fait de distinguer en chaque chose que l'on doit identifier dans la "carte" (afin de pouvoir le mettre en relation avec d'autres éléments) : 
-* d'une part son "intention" (notion qui renvoi à la raison pour laquelle la chose doit être 
+* d'une part son "intention" (notion qui renvoi à la raison pour laquelle la chose doit être identifiée)
 * d'autre part son "extension" (notion qui renvoi à la nature de la chose)
 
 Un article décrivant plus en détail cette approche "Intention VS Extension" est disponible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_FR.md">ici</a>.
+
+L'expérience montre que globalement, l'intention est plus importante que l'extension, et que souvent les modèles sont "pollués" par l'extension des choses (quand ils sont conçus de manière "monolithique"). 
+
+Gérer ces 2 notions de manière "orthogonales" permet de disposer d'un modèle plus compact, plus robuste et plus evolutif:
+* d'une partie du modèle (la facette "intensionelle") qui apporte de la généricité 
+* d'une partie du modèle (la facette "intensionelle") qui apporte de la spécificité 
 
 Sémantique Sous-Jacente
 -
