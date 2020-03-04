@@ -34,7 +34,7 @@ Il est évidement possible de se poser d'autres questions très pertinentes à p
 
 Approche méthodologique
 -
-L'approche méthodologique permettant de proposer le modèle E2M s'appuie principalement sur le fait de distinguer en chaque chose que l'on doit identifier dans la "carte" (afin de pouvoir le mettre en relation avec d'autres éléments) : 
+L'approche méthodologique permettant de proposer le modèle E2M s'appuie principalement sur le fait de distinguer en chaque chose que l'on doit identifier dans la "carte" (afin de pouvoir la mettre en relation avec d'autres éléments) : 
 * d'une part son "intention" (notion qui renvoi à la raison pour laquelle la chose doit être identifiée)
 * d'autre part son "extension" (notion qui renvoi à la nature de la chose)
 
