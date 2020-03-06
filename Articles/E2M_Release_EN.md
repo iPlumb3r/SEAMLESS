@@ -29,7 +29,7 @@ In fact, when one tries to __apprehend an ecosystem__, one tries __essentially__
 * For WHAT?
 * And WHY?
 
-[Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
+![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
 It is obviously possible to ask other very relevant questions about its environment, but the perimeter of E2M is - for the moment - limited to these 5 questions ;-)
 
