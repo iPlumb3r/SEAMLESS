@@ -53,7 +53,7 @@ A <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/1_Seman
 (Work in progress ...)_
 
 The simplified conceptual model allows to visualize "large mesh" relationships between intentional and extensional concepts:
-! [TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
+![ConceptModel](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 Desired features
 -
