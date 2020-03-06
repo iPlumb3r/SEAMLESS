@@ -123,7 +123,7 @@ Links toward supported ontologies :
 Resources
 -
 GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
-Telegram : <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a> 
+Telegram : <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a>    
 Twitter : <a href="https://twitter.com/iPlumb3r">Semantic Cartography Flux</a>
 
 
