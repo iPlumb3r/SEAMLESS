@@ -1,5 +1,5 @@
 
-A Model for Semantic Cartogrphy of Ecosystems
+A Model for Semantic Cartography of Ecosystems
 ==
 
 Tags
