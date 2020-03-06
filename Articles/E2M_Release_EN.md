@@ -8,7 +8,7 @@ Tags
 
 Introduction
 -
-Each of us, for __different and varied reasons__ (e.g. competitive watch, market survey, product watch, market watch, technological watch, entrepreneurial approach, product development, ...) are led to "map", __more or less formally__ (and using __more or less adapted__ tools), the environment in which we are currently evolving (or the one in which we wish to evolve in the future)!
+Each of us, for __different and varied reasons__ (e.g. competitive watch, market survey, product watch, market watch, technological watch, entrepreneurial approach, product development, ...) are led to "map", __more or less formally__ (and using __more or less adapted__ tools), the environment in which we are currently evolving (or the one in which we wish to evolve in the future) !
 
 Indeed, mapping your environment allows you to have a global and precise vision of it...   
 ... in order to be able to better act on it.
