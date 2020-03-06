@@ -77,30 +77,30 @@ The E2M model is available for the following 3 formalisms ...
             <th>Tools</th>
             <th>Mode</th>
             <th>Usage>/th>   
-            <th>Usage>/th> 
+            <th>Comment>/th> 
         <tr>
     </thead>
     <tbody>
         <tr>
             <td>OWL</td>
-            <td>N'importe que outil "OWL-Compliant"</td>
-            <td>En fonction de l'outil</td>
-            <td>En fonction de l'outil</td>
-            <td>En attente de <a href="http://semapps.org/">SemApps</a></td>
+            <td>Any "OWL-Compliant" tool</td>
+            <td>Depending of the tool</td>
+            <td>Depending of the tool</td>
+            <td>Waiting for <a href="http://semapps.org/">SemApps</a></td>
         </tr>
         <tr>
             <td>Topic Maps</td>
-            <td>Par exemple pour <a href="https://www.topincs.com/">Topincs</a></td>
-            <td>Mode "Model-Driven" uniquement</td>
-            <td>Web / Multi-Utilisateur</td>
+            <td>For exemple <a href="https://www.topincs.com/">Topincs</a></td>
+            <td>Mode "Model-Driven" Only</td>
+            <td>Web / Multi-User</td>
             <td>Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a></td>
         </tr>
         <tr>
             <td>KL</td>
             <td>Uniquement pour <a href="http://keeplink.com/">KeepLink</a></td>
-            <td>Mode "Model-Driven" et "Model-Discovery" (sans réconsiliation)</td>
-            <td>iDevice / Mono-Utilisateur (Mode "Collaboration" à venir)</td>
-            <td>En cours de paramétrage du modèle</td>
+            <td>Mode "Model-Driven" et "Model-Discovery" (No reconsiliation mode)</td>
+            <td>iDevice / Mono-Utilisateur ("Collaboration" Mode soon)</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -110,7 +110,6 @@ Links toward supported ontologies :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
 
-And associated tools : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/8_Implementations">Tools for E2M</a>
 
 "Intentional" Module (Simplified) 
 -
