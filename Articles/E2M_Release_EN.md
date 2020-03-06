@@ -23,11 +23,11 @@ Problem to be solved
 Environments may be potentially __very different__ from one case to another, but it turns out that the questions we ask about them, but also the concepts that *structure* these environments are - globally - always the __same__ (they are in a way the *business variables* of the "ecosystem mapping" knowledge domain).
 
 In fact, when one tries to __apprehend an ecosystem__, one tries __essentially__ to answer the following questions: 
-* WHAT?
-* Does WHAT?
-* HOW?
-* For WHAT?
-* And WHY?
+* WHAT ?
+* Does WHAT ?
+* HOW ?
+* For WHAT ?
+* And WHY ?
 
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
