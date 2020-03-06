@@ -105,24 +105,26 @@ The E2M model is available for the following 3 formalisms ...
     </tbody>
 </table>
    
-Ci-joint les liens vers les différentes spécification d'ontologies :
+Links toward supported ontologies :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/OWL-Ontology.md">OWL Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
 
-Module "Intentionnel" (Simplifié) 
+And associated tools : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/8_Implementations">Tools for E2M</a>
+
+"Intentional" Module (Simplified) 
 -
 ![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
 
 
-Modules "Intentionnel" & "Extensionnel" (Complet)
+"Intentional" & "Extensioal" Modules (Complete)
 -
 ![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-06.png)
 
-Ressources
+Resources
 -
 GitHub : <a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M Repository</a>   
-Telegram : <a href="https://t.me/EntangledBootstrap">"Entangled Bootstrap" Repository (EBR) Group"</a> (Projets liés)   
+Telegram : <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a> 
 Twitter : <a href="https://twitter.com/iPlumb3r">Semantic Cartography Flux</a>
 
 
