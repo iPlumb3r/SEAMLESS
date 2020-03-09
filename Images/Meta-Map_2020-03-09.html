@@ -1,0 +1,237 @@
+<html>
+<head><title>Image map created by yEd</title>
+<style type="text/css">
+.tooltip {
+  font-size:10pt;
+  background-color:#FFFFCC;
+  border:1px solid black;
+  padding:2px
+}
+</style>
+<style type="text/css">
+.tooltip {
+  position:absolute;
+  display:none
+}
+</style>
+</head>
+<body>
+
+<script type="text/javascript">
+tooltip = null;
+document.onmousemove = updateTooltip;
+function updateTooltip(e) {
+try {
+if (document.all) {
+if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+x = document.documentElement.scrollLeft + window.event.x;
+y = document.documentElement.scrollTop + window.event.y;
+}
+else { // all other Explorers
+x = document.body.scrollLeft + window.event.x;
+y = document.body.scrollTop + window.event.y;
+}
+}
+else {
+x = e.pageX;
+y = e.pageY;
+}
+if (tooltip != null) {
+o = 20;
+var sx, sy;
+if (self.pageYOffset) { // all except Explorer
+sx = self.pageXOffset;
+sy = self.pageYOffset;
+}
+else if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+sx = document.documentElement.scrollLeft;
+sy = document.documentElement.scrollTop;
+}
+else if (document.body) { // all other Explorers
+sx = document.body.scrollLeft;
+sy = document.body.scrollTop;
+}
+t = y + o + tooltip.offsetHeight;
+w = sy + document.body.clientHeight;
+if (t > w) {
+y = y - o - tooltip.offsetHeight;
+}
+else {
+y = y + o;
+}
+t = x + o + tooltip.offsetWidth;
+w = sx + document.body.clientWidth;
+if (t > w) {
+x = x - o - tooltip.offsetWidth;
+}
+else {
+x = x + o;
+}
+if ((tooltip.style.top == '' || tooltip.style.top == 0) && (tooltip.style.left == '' || tooltip.style.left == 0))
+{
+tooltip.style.width = tooltip.offsetWidth + 'px';
+tooltip.style.height = tooltip.offsetHeight + 'px';
+}
+tooltip.style.left = x + "px";
+tooltip.style.top = y + "px";
+}
+} catch (error) { error = null; }
+}
+function showTooltip(id) {
+try {
+tooltip = document.getElementById(id);
+tooltip.style.display = "block";
+} catch (error) { error = null; }
+}
+function hideTooltip() {
+try {
+tooltip.style.display = "none";
+} catch (error) { error = null; }
+}
+</script>
+
+<div class="tooltip" id="n0">BizApp-Spec</div>
+<div class="tooltip" id="n1">Dicho-Scope</div>
+<div class="tooltip" id="n3">GitHub Repository</div>
+<div class="tooltip" id="n5">KeepLink<br>Ontology</div>
+<div class="tooltip" id="n6">Topic Maps<br>Ontology</div>
+<div class="tooltip" id="n7">Topincs</div>
+<div class="tooltip" id="n8">KeepLink<br>(Non Official)</div>
+<div class="tooltip" id="n9">KeepLink</div>
+<div class="tooltip" id="n12">EcosystemMappingModel (E2M)</div>
+<div class="tooltip" id="n13">Ecosystem<br>Mapping<br>Model<br>(E2M)</div>
+<div class="tooltip" id="n14">E2M <br>for <br>OWL</div>
+<div class="tooltip" id="n15">E2M <br>for <br>KeepLink</div>
+<div class="tooltip" id="n16">E2M <br>for <br>Topinc Maps</div>
+<div class="tooltip" id="n17">E2M<br>Intentional<br>Module</div>
+<div class="tooltip" id="n18">E2M<br>Extensional<br>Module</div>
+<div class="tooltip" id="n20">"EntangledBoostrap" Repository (EBR)</div>
+<div class="tooltip" id="n21">Semantic Web<br>Ecosystem</div>
+<div class="tooltip" id="n22">Distributed Web<br>Ecosystem</div>
+<div class="tooltip" id="n23">Entangled<br>Bootstrap<br>Repository<br>(EBR)</div>
+<div class="tooltip" id="n24">EBR<br>powered by<br>KeepLink</div>
+<div class="tooltip" id="n25">EBR<br>powered by<br>Topincs</div>
+<div class="tooltip" id="n27">Knowledge Engineering Particles (KEP)</div>
+<div class="tooltip" id="n28">KeQuacks<br>Meta-Model</div>
+<div class="tooltip" id="n29">BORO</div>
+<div class="tooltip" id="n30">RDF(S)-OWL</div>
+<div class="tooltip" id="n31">Topic Maps</div>
+<div class="tooltip" id="n32">Set Theory</div>
+<div class="tooltip" id="n33">OO-Language</div>
+<div class="tooltip" id="n35">Th3Sr1b3Pr0j3ct</div>
+<div class="tooltip" id="n36">Onto-Terminology</div>
+<div class="tooltip" id="n38">SEAMLESS</div>
+<div class="tooltip" id="n39">Semantic Cartography</div>
+<div class="tooltip" id="n42">Meta</div>
+<div class="tooltip" id="n44">Subject 1</div>
+<div class="tooltip" id="n45">Subject 2</div>
+<div class="tooltip" id="n46">This Repository</div>
+<div class="tooltip" id="e0">> uses ><br>< used by <</div>
+<div class="tooltip" id="e1">has subject</div>
+<div class="tooltip" id="e2">has subject</div>
+<div class="tooltip" id="e3">< satisfies <<br>> satisfied by ></div>
+<div class="tooltip" id="e4">< satisfies <<br>> satisfied by ></div>
+<div class="tooltip" id="e5">< satisfies <<br>> satisfied by ></div>
+<div class="tooltip" id="e6">< part of <<br>> has part <</div>
+<div class="tooltip" id="e7">< part of <<br>> has part <</div>
+<div class="tooltip" id="e8">< imports <<br>> imported by <</div>
+<div class="tooltip" id="e9">> instantiates ><br>< instantiated by <</div>
+<div class="tooltip" id="e10">> driven by ><br>< drives <</div>
+<div class="tooltip" id="e11">> driven by ><br>< drives <</div>
+<div class="tooltip" id="e12">> requires ><br>< required by <</div>
+<div class="tooltip" id="e13">> instantiates ><br>< instantiated by <</div>
+<div class="tooltip" id="e14">> driven by ><br>< drives <</div>
+<div class="tooltip" id="e15">> driven by ><br>< drives <</div>
+<div class="tooltip" id="e16">> requires ><br>< required by <</div>
+<div class="tooltip" id="e17">< satisfies <<br>> satisfied by ></div>
+<div class="tooltip" id="e18">< satisfies <<br>> satisfied by ></div>
+<div class="tooltip" id="e19">> uses ><br>< used by <</div>
+<div class="tooltip" id="e20">> uses ><br>< used by <</div>
+<div class="tooltip" id="e21">< uses <<br>> used by ></div>
+<div class="tooltip" id="e22">< uses <<br>> used by ></div>
+<div class="tooltip" id="e23">relation<br>between<br>subjects</div>
+<div class="tooltip" id="e24">host<br>common resources<br>about</div>
+
+<map name="image1_1">
+  <area shape="poly" coords="1047,122,1047,122,1048,220,1038,220,1037,122,1037,122" alt="" onmouseover="showTooltip('e24')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="261,131,261,131,381,131,381,141,261,141,261,141" alt="" onmouseover="showTooltip('e23')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="136,587,136,587,113,587,113,582,118,582,118,702,108,702,108,582,113,577,136,577,136,577" alt="" onmouseover="showTooltip('e22')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="73,680,73,680,73,368,78,363,173,363,173,373,78,373,78,368,83,368,83,680,83,680" alt="" onmouseover="showTooltip('e21')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="404,702,404,702,404,582,409,582,409,587,384,587,384,577,409,577,414,582,414,702,414,702" alt="" onmouseover="showTooltip('e20')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1108,1172,1108,1172,1108,1106,1118,1106,1118,1172,1118,1172" alt="" onmouseover="showTooltip('e19')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1067,557,1067,557,746,557,746,547,1067,547,1067,547" alt="" onmouseover="showTooltip('e18')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="918,455,918,455,746,455,746,445,918,445,918,445" alt="" onmouseover="showTooltip('e17')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1207,545,1207,545,1376,545,1376,555,1207,555,1207,555" alt="" onmouseover="showTooltip('e16')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1142,583,1142,583,1142,739,1132,739,1132,583,1132,583" alt="" onmouseover="showTooltip('e15')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1451,607,1451,607,1451,700,1441,700,1441,607,1441,607" alt="" onmouseover="showTooltip('e14')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1376,810,1376,810,1207,810,1207,800,1376,800,1376,800" alt="" onmouseover="showTooltip('e13')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1057,357,1057,357,1412,357,1412,367,1057,367,1057,367" alt="" onmouseover="showTooltip('e12')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="992,464,992,464,992,774,982,774,982,464,982,464" alt="" onmouseover="showTooltip('e11')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1541,446,1541,446,1541,878,1531,878,1531,446,1531,446" alt="" onmouseover="showTooltip('e10')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1057,887,1057,887,1405,887,1405,897,1057,897,1057,897" alt="" onmouseover="showTooltip('e9')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="767,1023,767,1023,664,1023,664,1013,767,1013,767,1013" alt="" onmouseover="showTooltip('e8')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="764,965,764,965,647,877,653,869,770,957,770,957" alt="" onmouseover="showTooltip('e7')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="589,960,589,960,589,873,599,873,599,960,599,960" alt="" onmouseover="showTooltip('e6')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1067,759,1067,759,664,759,664,749,1067,749,1067,749" alt="" onmouseover="showTooltip('e5')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="917,792,917,792,664,792,664,782,917,782,917,782" alt="" onmouseover="showTooltip('e4')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="767,830,767,830,664,830,664,820,767,820,767,820" alt="" onmouseover="showTooltip('e3')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="626,437,626,437,626,398,636,398,636,437,636,437" alt="" onmouseover="showTooltip('e2')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="727,437,727,437,727,398,737,398,737,437,737,437" alt="" onmouseover="showTooltip('e1')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1207,1246,1207,1246,1309,1246,1309,1256,1207,1256,1207,1256" alt="" onmouseover="showTooltip('e0')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="939,15,985,61" href="https://github.com/iPlumb3r/Meta" alt="" target="_blank"/>
+  <area shape="rect" coords="977,77,1107,107" alt="" onmouseover="showTooltip('n46')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="962,40,1122,122" alt="" onmouseover="showTooltip('n42')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1286,1146,1332,1192" href="https://github.com/iPlumb3r/Dicho-Scope" alt="" target="_blank"/>
+  <area shape="rect" coords="158,247,204,293" href="https://github.com/iPlumb3r/SEAMLESS" alt="" target="_blank"/>
+  <area shape="rect" coords="188,307,389,451" alt="" onmouseover="showTooltip('n39')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="173,270,416,466" alt="" onmouseover="showTooltip('n38')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="112,454,158,500" href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct" alt="" target="_blank"/>
+  <area shape="rect" coords="151,515,369,672" alt="" onmouseover="showTooltip('n36')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="136,477,384,687" alt="" onmouseover="showTooltip('n35')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="53,680,99,726" href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles" alt="" target="_blank"/>
+  <area shape="rect" coords="271,983,434,1075" alt="" onmouseover="showTooltip('n33')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="86,992,249,1075" alt="" onmouseover="showTooltip('n32')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="271,745,434,846" alt="" onmouseover="showTooltip('n31')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="271,864,434,965" alt="" onmouseover="showTooltip('n30')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="86,877,249,978" alt="" onmouseover="showTooltip('n29')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="86,745,249,863" alt="" onmouseover="showTooltip('n28')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="71,702,449,1090" alt="" onmouseover="showTooltip('n27')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="489,247,535,293" href="https://github.com/iPlumb3r/EntangledBootstrap" alt="" target="_blank"/>
+  <area shape="rect" coords="1068,426,1207,583" alt="" onmouseover="showTooltip('n25')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="918,306,1057,464" alt="" onmouseover="showTooltip('n24')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="607,438,746,571" alt="" onmouseover="showTooltip('n23')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="523,306,686,390" alt="" onmouseover="showTooltip('n22')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="694,306,857,390" alt="" onmouseover="showTooltip('n21')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="508,269,1222,598" alt="" onmouseover="showTooltip('n20')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="479,680,525,726" href="https://github.com/iPlumb3r/EcosystemMappingModel" alt="" target="_blank"/>
+  <area shape="rect" coords="768,960,907,1076" alt="" onmouseover="showTooltip('n18')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="525,960,664,1076" alt="" onmouseover="showTooltip('n17')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1068,739,1207,872" alt="" onmouseover="showTooltip('n16')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="918,774,1057,905" alt="" onmouseover="showTooltip('n15')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="768,807,907,938" alt="" onmouseover="showTooltip('n14')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="525,739,664,873" alt="" onmouseover="showTooltip('n13')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="505,702,1222,1091" alt="" onmouseover="showTooltip('n12')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1377,247,1423,293" href="https://github.com/iPlumb3r/KeepLink" alt="" target="_blank"/>
+  <area shape="rect" coords="1412,323,1551,446" alt="" onmouseover="showTooltip('n9')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1397,268,1566,461" alt="" onmouseover="showTooltip('n8')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1376,483,1515,607" alt="" onmouseover="showTooltip('n7')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1376,700,1515,845" alt="" onmouseover="showTooltip('n6')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1406,878,1545,1023" alt="" onmouseover="showTooltip('n5')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="15,20,61,66" href="https://github.com/iPlumb3r?tab=repositories" alt="" target="_blank"/>
+  <area shape="rect" coords="381,78,589,194" alt="" onmouseover="showTooltip('n45')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="53,78,261,194" alt="" onmouseover="showTooltip('n44')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="38,42,604,209" alt="" onmouseover="showTooltip('n3')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="993,1146,1039,1192" href="https://github.com/iPlumb3r/BizApp-Spec-Methodo" alt="" target="_blank"/>
+  <area shape="rect" coords="1309,1176,1566,1326" alt="" onmouseover="showTooltip('n1')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1020,1172,1207,1330" alt="" onmouseover="showTooltip('n0')" onmouseout="hideTooltip()"/>
+</map>
+
+
+    <table class="yimagetable" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+        <td><img class="yimage" src="https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.png" usemap="#image1_1" border="0" alt=""/></td>
+      </tr>
+    </table>
+
+</body>
+</html>
