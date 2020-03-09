@@ -16,4 +16,6 @@ List of related repositories :
 Map
 -
 Map about related repositories
-https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.html
+(A clicable map is available <a href="">here</a>) 
+
+![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.png)
