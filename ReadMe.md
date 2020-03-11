@@ -1,4 +1,4 @@
-Meta-Repository
+Meta-Repository about the "Big Picture"
 ==
 Goal
 -
