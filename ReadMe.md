@@ -13,9 +13,16 @@ List of related repositories :
 * <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">Business Application Specification</a> : A Methodology for Specifying Ontology-Driven Business Applications   
 * <a href="https://github.com/iPlumb3r/Dicho-Scope">Dicho-Scope</a> : A "Separation Of Concerns" - based tool for analysing knowledge domains    
 
-Map
+Meta-Map
 -
 Map about related repositories
-(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map_2020-03-09.html">here</a>) 
+(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">here</a>) 
+
+![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map.png)
+
+Meta-Map (More detailled : Using Multi-Typing)
+-
+Map about related repositories
+(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map2.html">here</a>) 
 
 ![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.png)
