@@ -19,7 +19,7 @@ Map about related repositories
 
 Resources
 -
-<a href="https://t.me/BigPicture">Telegram</a>.  
+<a href="https://t.me/dSemBigPicture">Telegram</a>.  
 
 
 Meta-Map (More detailled : Using Multi-Typing)
