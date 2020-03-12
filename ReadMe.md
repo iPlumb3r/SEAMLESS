@@ -93,7 +93,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
-            <td>Using the best "KeQuarks" (Meta-)Model for building a distributed <ConceptionaryManager> which is a distributed application which allow to manage 1 (or several) <Conceptionary>.</td>
+            <td>Using the best "KeQuarks" (Meta-)Model for building a fully distributed Conceptionary Manager (= A dApp which allow to manage 1 (or several) Conceptionari(es)</td>
             <td>All about "How to identify & denote Concept(s) we are thinking about ?"</td>
             <td>-</td>
             <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
