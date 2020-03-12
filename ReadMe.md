@@ -145,7 +145,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>All about <a href="https://holochain.org/">KeepLink</a> and the starting journey in the distributed web landscape ... </td>
             <td>How To, ...</td>
             <td>Holochain (by an Holonaut)</td>
-            <td><td><a href="https://t.me/HolochainByHolonauts">Holochainners</a></td></td>
+            <td><a href="https://t.me/HolochainByHolonauts">Holochainners</a></td></td>
         </tr>
     </tbody>
 </table>
