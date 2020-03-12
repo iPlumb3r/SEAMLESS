@@ -41,6 +41,20 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
+        </tr> 
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://t.me/EntangledBootstrap">EBR</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a></td>
+            <td>A Model for building a Semantic Cartography about any Ecosystem, by answering answering those questions : WHO ? Do WHAT ? HOW ? For WHAT & WHY ?</td>
+            <td>Ecosystem Mapping Model (E2M)</td>
+            <td>E2M = Intentioanl Module + Extensional Module</td>
+            <td><a href="https://t.me/EcosystemMapping">E2M</a></td>
         </tr>
         <tr>
             <td>------------</td>
