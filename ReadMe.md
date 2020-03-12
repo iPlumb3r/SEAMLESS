@@ -43,6 +43,27 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>=============</td>
         </tr> 
         <tr>
+            <td>COMPaaS</td>
+            <td>A dSem PLM</td>
+            <td>To Be Completed ...</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+        </tr>
+        <tr>
+            <td><a href="pEAr4pEEr">pEAr4pEEr</a></td>
+            <td>P??? Enterprise Architecture Reference for P2P Extended Ecosystem Partners ...</td>
+            <td>Enterprise Architecture Models (EAMs)</td>
+            <td>Where P??? stand for : Possible, Probable, Potential, Pitoyable, Perfect, Pragmatic, Panoptical, Prismatic, Perpetual, ... depending of the mood ;-)</td>
+            <td><a href="https://t.me/pEAr4pEEr">pEAr4pEEr</a></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
             <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems.</td>
             <td>EB repositories</td>
