@@ -45,7 +45,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         <tr>
             <td>COMPaaS</td>
             <td>A dSem PLM</td>
-            <td>To Be Completed ...</td>
+            <td>To Be Completed</td>
             <td></td>
             <td></td>
         </tr>
