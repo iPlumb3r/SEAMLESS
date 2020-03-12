@@ -50,6 +50,13 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>------------</td>
         </tr>
         <tr>
+            <td>Prism</td>
+            <td>From Semantically Organizaed Information To Representation & Visualization</td>
+            <td>Representation And Visualization Models (RVMs)</td>
+            <td>-</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td>Th3Sr1b3Pr0j3ct</td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>All about "How to denote Concept(s) we are thinking about"</td>
