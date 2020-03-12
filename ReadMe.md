@@ -1,9 +1,11 @@
-Meta-Repository about the "Big Picture"
+Big Picture
 ==
+
 Goal
 -
-The goal of this repository is to provide an high level description of 
-"how the others repositories are connected together ?"
+The goal of this GitHub (meta-)repository is to provide an high level description of :
+* What is the "Big Bicture" ?
+* How related iniative (and associated GitHub repositories) are connected together ?"
 
 Motivation
 -
@@ -14,7 +16,7 @@ Answsering to this question :
 Repositories
 -
 
-WORK IN PROGRESS ...
+AVAILABLE VERY SOON ...
 
 Meta-Map
 -
