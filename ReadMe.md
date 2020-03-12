@@ -50,21 +50,21 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>------------</td>
         </tr>
         <tr>
-            <td>Prism</td>
+            <td><a href="https://github.com/iPlumb3r/Prism">Prism</a></td>
             <td>From Semantically Organized Information To Representation & Visualization</td>
             <td>Representation And Visualization Models (RVMs)</td>
             <td>-</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Th3Sr1b3Pr0j3ct</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>All about "How to denote Concept(s) we are thinking about"</td>
             <td>-</td>
             <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
         </tr>
         <tr>
-            <td>HGQ-4-KEEP</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">HGQ-4-KEEP</a></td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>KeQuarks Model</td>
             <td>-</td>
@@ -72,7 +72,6 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         </tr>
     </tbody>
 </table>
-AVAILABLE VERY SOON ...
 
 Meta-Map
 -
