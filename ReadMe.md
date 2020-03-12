@@ -126,6 +126,27 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>Work In Stand-By</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+        </tr> 
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a></td>
+            <td>Useful resources about <a href="http://keeplink.com/">KeepLink</a>. Disclaimer : Non Official Web Site (Just built by a KL Aficionado).</td>
+            <td>How To, ...</td>
+            <td></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Holochain">Dicho-Scope</a></td>
+            <td>All about <a href="https://holochain.org/">KeepLink</a> and the starting journey in the distributed web landscape ... </td>
+            <td>How To, ...</td>
+            <td>Holochain (by an Holonaut)</td>
+            <td><td><a href="https://t.me/HolochainByHolonauts">Holochainners</a></td></td>
+        </tr>
     </tbody>
 </table>
 
