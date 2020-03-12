@@ -31,8 +31,8 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a></td>
             <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
-            <td>A Big Picture of "This" ...</td>
-            <td>... and potentialy - also - a RoadMap (but not in a 1st time)</td>
+            <td>A Big Picture of "This" !</td>
+            <td>And potentialy - also - a RoadMap (but not in a 1st time)</td>
             <td><a href="https://t.me/dSemBigPicture">Big Picture</a></td>
         </tr>
         <tr>
