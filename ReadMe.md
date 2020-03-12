@@ -115,14 +115,14 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
             <td>Best Practices for Specifying Ontology-Driven Business Applications </td>
-            <td>A Methololog</td>
+            <td>A Metholology</td>
             <td>Work In Stand-By</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Dicho-Scope">Dicho-Scope</a></td>
-            <td>A dSem PLM</td>
-            <td>To Be Completed</td>
+            <td>Some useful "Separation of Concerns" (SoC) Principles for analysing Knowledge Domains</td>
+            <td>Semantic Lenses</td>
             <td>Work In Stand-By</td>
             <td>N/A</td>
         </tr>
