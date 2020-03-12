@@ -43,10 +43,10 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>=============</td>
         </tr> 
         <tr>
-            <td>COMPaaS</td>
+            <td>To Be Defined</td>
             <td>A dSem PLM</td>
-            <td>To Be Completed</td>
             <td></td>
+            <td>COMPaaS ?</td>
             <td></td>
         </tr>
         <tr>
