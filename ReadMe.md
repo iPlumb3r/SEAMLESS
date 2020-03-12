@@ -50,11 +50,11 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>------------</td>
         </tr>
         <tr>
-            <tdTh3Sr1b3Pr0j3ct</td>
+            <td>Th3Sr1b3Pr0j3ct</td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>All about "How to denote Concept(s) we are thinking about"</td>
             <td>-</td>
-            <td><a href="https://t.me/TheScribeProject">Telegram</a>.  </td>
+            <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
         </tr>
         <tr>
             <td>HGQ-4-KEEP</td>
