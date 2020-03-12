@@ -44,7 +44,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
-            <td></td>
+            <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems.</td>
             <td></td>
             <td></td>
             <td><a href="https://t.me/EntangledBootstrap">EBR</a></td>
@@ -65,14 +65,14 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Prism">Prism</a></td>
-            <td>From Semantically Organized Information To Representation & Visualization</td>
+            <td>From Semantically Organized Information To Representation & Visualization.</td>
             <td>Representation And Visualization Models (RVMs)</td>
             <td>-</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
-            <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
+            <td>Using the best "KeQuarks" (Meta-)Model for building a distributed <ConceptionaryManager> which is a distributed application which allow to manage 1 (or several) <Conceptionary>.</td>
             <td>All about "How to denote Concept(s) we are thinking about"</td>
             <td>-</td>
             <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
