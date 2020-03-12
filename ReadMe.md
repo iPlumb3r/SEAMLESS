@@ -137,7 +137,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a></td>
             <td>Useful resources about <a href="http://keeplink.com/">KeepLink</a>. Disclaimer : Non Official Web Site (Just built by a KL Aficionado).</td>
             <td>How To, ...</td>
-            <td></td>
+            <td>KeepLink (by an Aficionado)</td>
             <td>N/A</td>
         </tr>
         <tr>
