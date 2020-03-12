@@ -136,11 +136,6 @@ Map about related repositories
 
 ![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03_11.png)
 
-Resources
--
-<a href="https://t.me/dSemBigPicture">Telegram</a>.  
-
-
 Meta-Map (More detailled : Using Multi-Typing)
 -
 Map about related repositories
