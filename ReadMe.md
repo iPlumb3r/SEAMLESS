@@ -30,7 +30,7 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
     <tbody>
         <tr>
             <td>SEAMLESS</td>
-            <td>Tring to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
+            <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
             <td>A Big Picture of "This" ...</td>
             <td>... and potentialy - also - a RoadMap (but not in a 1st time)</td>
             <td><a href="https://t.me/dSemBigPicture">dSemBigPicture</a></td>
@@ -51,9 +51,9 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
         </tr>
         <tr>
             <td>HGQ-4-KEEP</td>
-            <td>holy Grail Quest" for "Knowledge Engineering Elementary Particles</td>
-            <td></td>
-            <td></td>
+            <td>"Holy Grail Quest" for "Knowledge Engineering Elementary Particles</td>
+            <td>KeQuarks Model</td>
+            <td>-</td>
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
         </tr>
     </tbody>
