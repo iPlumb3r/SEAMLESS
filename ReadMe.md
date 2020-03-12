@@ -99,7 +99,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">HGQ-4-KEEP</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a></td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>KeQuarks Model</td>
             <td>-</td>
