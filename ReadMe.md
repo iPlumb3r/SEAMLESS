@@ -15,7 +15,7 @@ Answering to this question :
 
 Repositories
 -
-Note : The name of the GitHub reprository is sometime more inspired by the name of the main deliverable than the name of the initiative/project ... (but it does'nt really matters ;-)
+Note : The name of the GitHub reprository (and/or the on of the Telegram Group) is sometime more inspired by the name of the main deliverable than the name of the initiative/project ... (but it does'nt really matters ;-)
 
 <table>
     <thead>
@@ -33,7 +33,7 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
             <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
             <td>A Big Picture of "This" ...</td>
             <td>... and potentialy - also - a RoadMap (but not in a 1st time)</td>
-            <td><a href="https://t.me/dSemBigPicture">dSemBigPicture</a></td>
+            <td><a href="https://t.me/dSemBigPicture">Big Picture</a></td>
         </tr>
         <tr>
             <td>=============</td>
@@ -48,6 +48,13 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
             <td>------------</td>
             <td>------------</td>
             <td>------------</td>
+        </tr>
+        <tr>
+            <tdTh3Sr1b3Pr0j3ct</td>
+            <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
+            <td>All about "How to denote Concept(s) we are thinking about"</td>
+            <td>-</td>
+            <td><a href="https://t.me/TheScribeProject">Telegram</a>.  </td>
         </tr>
         <tr>
             <td>HGQ-4-KEEP</td>
