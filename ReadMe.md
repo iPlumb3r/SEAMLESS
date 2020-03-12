@@ -105,6 +105,27 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>-</td>
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
         </tr>
+        <tr>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+        </tr> 
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
+            <td>Best Practices for Specifying Ontology-Driven Business Applications </td>
+            <td>A Methololog</td>
+            <td>Work In Stand-By</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Dicho-Scope">Dicho-Scope</a></td>
+            <td>A dSem PLM</td>
+            <td>To Be Completed</td>
+            <td>Work In Stand-By</td>
+            <td>N/A</td>
+        </tr>
     </tbody>
 </table>
 
