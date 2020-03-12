@@ -64,7 +64,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>------------</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Prism">PRISM</a></td>
+            <td><a href="https://github.com/iPlumb3r/Prism">Prism</a></td>
             <td>From Semantically Organized Information To Representation & Visualization.</td>
             <td>Representation And Visualization Models (RVMs)</td>
             <td>-</td>
