@@ -51,7 +51,7 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
         </tr>
         <tr>
             <td>HGQ-4-KEEP</td>
-            <td>"Holy Grail Quest" for "Knowledge Engineering Elementary Particles</td>
+            <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>KeQuarks Model</td>
             <td>-</td>
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
