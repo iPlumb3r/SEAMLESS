@@ -20,7 +20,7 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
 <table>
     <thead>
         <tr>
-            <th>Iniative/project</th>
+            <th>Initiative/project</th>
             <th>Description</th>
             <th>Main Deliverables</th>
             <th>Comment</th>
@@ -30,10 +30,10 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
     <tbody>
         <tr>
             <td>SEAMLESS</td>
-            <td>ring to provide a For a deep, clear and shared understanting about how to build</td>
-            <td>A Big Picture of the "whole"</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>Tring to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
+            <td>A Big Picture of "This" ...</td>
+            <td>... and potentialy - also - a RoadMap (but not in a 1st time)</td>
+            <td><a href="https://t.me/dSemBigPicture">dSemBigPicture</a></td>
         </tr>
         <tr>
             <td>=============</td>
@@ -41,6 +41,20 @@ Note : The name of the GitHub reprository is sometime more inspired by the name 
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
+        </tr>
+        <tr>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+            <td>------------</td>
+        </tr>
+        <tr>
+            <td>HGQ-4-KEEP</td>
+            <td>holy Grail Quest" for "Knowledge Engineering Elementary Particles</td>
+            <td></td>
+            <td></td>
+            <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
         </tr>
     </tbody>
 </table>
