@@ -44,7 +44,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         </tr> 
         <tr>
             <td>To Be Defined</td>
-            <td>A dSem PLM</td>
+            <td>A (Fully) Distributed Semantic(-Driven) PLM (dSem-PLM)</td>
             <td></td>
             <td>COMPaaS ?</td>
             <td></td>
