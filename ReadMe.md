@@ -5,7 +5,7 @@ Goal
 -
 The goal of this GitHub (meta-)repository is to provide an high level description of :
 * What is the "Big Bicture" ?
-* How related iniatives/projects (and associated GitHub repositories) are connected together ?"
+* How related iniatives/projects (and associated GitHub repositories) are connected together ?
 
 Motivation
 -
