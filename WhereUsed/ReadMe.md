@@ -1,7 +1,7 @@
 Where Used
 ==
 
-This page is dedicated to the identification of other "external" initiatives/project which are using one (or several) SEAMLESS sub-initiatives
+This page is dedicated to the identification of other "external" initiatives/projects which are using one (or several) SEAMLESS sub-initiative(s)
 
 
 <table>
