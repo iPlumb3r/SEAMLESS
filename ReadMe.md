@@ -159,13 +159,10 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
 
 Meta-Map
 -
-Map about related repositories
-(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">here</a>) 
+Map about related repositories :
+(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">here</a> :
 
-![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03_11.png)
-
-Next Version (Work In Progress)
-![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-13.png)
+![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-14.png)
 
 Meta-Map (More detailled : Using Multi-Typing)
 -
