@@ -173,3 +173,12 @@ Map about related repositories
 (A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map2.html">here</a>) 
 
 ![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.png)
+
+Contribute
+-
+See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Contribute_EN.md">here</a>
+
+
+Licence
+-
+See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Licence_EN.md">here</a>
