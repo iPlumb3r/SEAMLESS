@@ -26,5 +26,11 @@ This page is dedicated to the identification of other "external" initiatives/pro
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a>  </td>
             <td>-</td>
         </tr>
+        <tr>
+            <td>OSE PLM  Model</td>
+            <td><a href="https://www.opensourceecology.org/">Open Source Ecology</a></td>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
+            <td>Not active anmore</td>
+        </tr>
     </tbody>
 </table>
