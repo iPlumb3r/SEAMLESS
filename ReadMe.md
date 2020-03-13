@@ -176,6 +176,10 @@ Map about related repositories
 
 Contribute
 -
+See <a href="https://github.com/iPlumb3r/BigPicture/tree/master/WhereUsed">here</a> where those initiatives/projects are used by
+
+Contribute
+-
 See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Contribute_EN.md">here</a>
 
 
