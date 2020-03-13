@@ -29,7 +29,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
     </thead>
     <tbody>
         <tr>
-            <td>OVERVIEW<td>
+            <td>OVERVIEW</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
