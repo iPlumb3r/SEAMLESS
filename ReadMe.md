@@ -15,7 +15,7 @@ Answering to this question :
 
 Repositories
 -
-Note : The name of the GitHub reprository (and/or the on of the Telegram Group) is sometime more inspired by the name of the main deliverable than the name of the initiative/project (but it does'nt really matters ;-)
+__Note__ : The name of the GitHub reprositories (and/or the on of the Telegram Groups) are sometime more inspired by the name of the main deliverable than the name of the initiative/project (but it does'nt really matters ;-)
 
 <table>
     <thead>
