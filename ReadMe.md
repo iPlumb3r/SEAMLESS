@@ -164,13 +164,6 @@ Map about related repositories :
 
 ![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-14.png)
 
-Meta-Map (More detailled : Using Multi-Typing)
--
-Map about related repositories
-(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map2.html">here</a>) 
-
-![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03-09.png)
-
 Where Used
 -
 See <a href="https://github.com/iPlumb3r/BigPicture/tree/master/WhereUsed">here</a> where those initiatives/projects are used by ?
