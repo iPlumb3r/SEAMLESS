@@ -43,7 +43,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://t.me/SeamlessBigPicture">Seamless BP</a></td>
         </tr>
         <tr>
-            <td>ROCKET</td>
+            <td>ROCKETS</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
