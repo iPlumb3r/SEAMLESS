@@ -33,7 +33,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
             <td>A Big Picture of "This" !</td>
             <td>And potentialy - also - a RoadMap (but not now)</td>
-            <td><a href="https://t.me/dSemBigPicture">Big Picture</a></td>
+            <td><a href="https://t.me/SeamlessBigPicture">Seamless "Big Picture"</a></td>
         </tr>
         <tr>
             <td>=============</td>
