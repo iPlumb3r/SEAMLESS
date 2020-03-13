@@ -165,7 +165,7 @@ Map about related repositories
 ![Meta-Map](https://github.com/iPlumb3r/Meta/blob/master/Images/Meta-Map_2020-03_11.png)
 
 Next Version (Work In Progress)
-![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-12.png)
+![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-13.png)
 
 Meta-Map (More detailled : Using Multi-Typing)
 -
