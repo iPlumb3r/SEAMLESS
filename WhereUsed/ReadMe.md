@@ -23,8 +23,7 @@ This page is dedicated to the identification of other "external" initiatives/pro
         <tr>
             <td><a href="http://datafoodconsortium.org/blog/building-a-common-language-our-semantic-business-concepts-model">DFC Model</a></td>
             <td><a href="http://datafoodconsortium.org/">Data Food Consortium</a></td>
-            <td><a href="
-<a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a>  </td>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a>  </td>
             <td>-</td>
         </tr>
     </tbody>
