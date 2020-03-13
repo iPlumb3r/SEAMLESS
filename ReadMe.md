@@ -29,6 +29,13 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
     </thead>
     <tbody>
         <tr>
+            <td>OVERVIEW<td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+            <td>=============</td>
+        </tr> 
+        <tr>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a></td>
             <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
             <td>A Big Picture of "This" !</td>
@@ -36,7 +43,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://t.me/SeamlessBigPicture">Seamless BP</a></td>
         </tr>
         <tr>
-            <td>=============</td>
+            <td>ROCKET</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
@@ -50,7 +57,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td></td>
         </tr>
         <tr>
-            <td>------------</td>
+            <td>BOOTSTRAP</td>
             <td>------------</td>
             <td>------------</td>
             <td>------------</td>
@@ -66,7 +73,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
             <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems.</td>
-            <td>EB repositories</td>
+            <td>EB Repositories</td>
             <td>Currently implemented with <a href="https://www.topincs.com/">Topincs</a> (see online) : <a href="https://www.topincs.com/EntangledBootstrap/">Prod</a> & and <a href="https://www.topincs.com/iPlumb3rSandBox/">Dev</a>) AND <a href="http://keeplink.com/">KeepLink</a> (off line)</td>
             <td><a href="https://t.me/EntangledBootstrap">EBR</a></td>
         </tr>
@@ -78,7 +85,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://t.me/EcosystemMapping">E2M</a></td>
         </tr>
         <tr>
-            <td>------------</td>
+            <td>FOUNDATIONS</td>
             <td>------------</td>
             <td>------------</td>
             <td>------------</td>
@@ -106,7 +113,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
         </tr>
         <tr>
-            <td>=============</td>
+            <td>METHOLOGIES</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
@@ -127,7 +134,7 @@ Note : The name of the GitHub reprository (and/or the on of the Telegram Group) 
             <td>N/A</td>
         </tr>
         <tr>
-            <td>=============</td>
+            <td>TECHNOLOGIES</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
