@@ -1,5 +1,7 @@
-Big Picture
+SEAMLESS "Big Picture"
 ==
+
+The SEAMLESS initiative is trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"
 
 Goal
 -
