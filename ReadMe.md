@@ -76,7 +76,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
             <td>A Semantic Cartography of the intersection between #SemanticTechnologies & #DistributedWeb Ecosystems.</td>
             <td>EB Repositories</td>
-            <td>Currently implemented with <a href="https://www.topincs.com/">Topincs</a> (see online) : <a href="https://www.topincs.com/EntangledBootstrap/">Prod</a> & and <a href="https://www.topincs.com/iPlumb3rSandBox/">Dev</a>) AND <a href="http://keeplink.com/">KeepLink</a> (off line)</td>
+            <td>Currently implemented with <a href="https://www.topincs.com/">Topincs</a> (see online) : <a href="https://www.topincs.com/EntangledBootstrap/">Prod</a> & and <a href="https://www.topincs.com/iPlumb3rSandBox/">Dev</a> AND <a href="http://keeplink.com/">KeepLink</a> (off line)</td>
             <td><a href="https://t.me/EntangledBootstrap">EBR</a></td>
         </tr>
         <tr>
