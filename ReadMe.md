@@ -170,6 +170,10 @@ Where Used
 -
 See <a href="https://github.com/iPlumb3r/BigPicture/tree/master/WhereUsed">here</a> where those initiatives/projects are used by ?
 
+Navigate
+-
+See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">here</a>
+
 Contribute
 -
 See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Contribute_EN.md">here</a>
