@@ -172,7 +172,7 @@ See <a href="https://github.com/iPlumb3r/BigPicture/tree/master/WhereUsed">here<
 
 How To Navigate
 -
-About using the "Entangled Bootstrap" Repository for a navigation through topics evokated in GitHub repositories
+About using the "Entangled Bootstrap" Repository for a navigation through topics evokated in GitHub repositories.   
 See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">here</a>
 
 How To Contribute
