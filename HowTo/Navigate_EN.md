@@ -1,7 +1,7 @@
 How To Navigate ?
 ==
 
-GitHub is not designed to navigate through semantically organized information, ...
+GitHub is not designed to navigate through semantically organized information, ...   
 ... but Topincs is !
 
 Then, you can you the Topincs-powered <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/ReadMe.md">Entangled Bootstrap</a> Repository : https://www.topincs.com/EntangledBootstrap/.  
