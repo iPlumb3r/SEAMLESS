@@ -36,8 +36,8 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
-            <td>=========</td>
+            <td>===========</td>
+            <td>=======</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a></td>
@@ -52,8 +52,8 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
-            <td>=========</td>
+            <td>===========</td>
+            <td>=======</td>
         </tr> 
         <tr>
             <td>To Be Defined</td>
@@ -116,7 +116,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>Using the best "KeQuarks" (Meta-)Model for building a fully distributed Conceptionary Manager (= A dApp which allow to manage 1 (or several) Conceptionari(es)</td>
             <td>All about "How to identify & denote Concept(s) we are thinking about ?"</td>
             <td>-</td>
-            <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
+            <td><a href="https://t.me/TheScribeProject">ScribeProject</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
@@ -132,8 +132,8 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
-            <td>=========</td>
+            <td>===========</td>
+            <td>=======</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
@@ -156,8 +156,8 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>   
-            <td>=========</td>
+            <td>===========</td>   
+            <td>=======</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a></td>
