@@ -37,7 +37,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
+            <td>=========</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a></td>
@@ -53,7 +53,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
+            <td>=========</td>
         </tr> 
         <tr>
             <td>To Be Defined</td>
@@ -133,7 +133,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
-            <td>=============</td>
+            <td>=========</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
@@ -157,7 +157,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>   
-            <td>=============</td>
+            <td>=========</td>
         </tr> 
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a></td>
