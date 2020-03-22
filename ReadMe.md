@@ -1,6 +1,32 @@
 SEAMLESS "Big Picture"
 ==
 
+Initiative ID Card
+-
+_Note : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
+
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Initiative</th>
+            <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>Big Picture, Methods & Tools</td>
+            <td>See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>A</td>
+        </tr>
+    </tbody>
+</table>
+
 The SEAMLESS initiative is trying to provide a _deep, clear and shared understanding_ about how to build __"Fully Distributed Semantic-Driven Business Applications"__
 
 Goal
@@ -33,22 +59,6 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>OVERVIEW</td>
-            <td>=============</td>
-            <td>=============</td>
-            <td>=============</td>
-            <td>===========</td>
-            <td>=======</td>
-        </tr> 
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a></td>
-            <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
-            <td>A Big Picture of "This" !</td>
-            <td>And potentialy - also - a RoadMap (but not now)</td>
-            <td><a href="https://t.me/SeamlessBigPicture">Seamless BP</a></td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
-        </tr>
         <tr>
             <td>TARGETS</td>
             <td>=============</td>
