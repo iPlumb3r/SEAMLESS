@@ -27,7 +27,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <th>Main Deliverables</th>
             <th>Comment</th>
             <th>Telegram</th>
-            <th>EBR ID (Initiative)</th>
+            <th>EBR ID</th>
         </tr>
     </thead>
     <tbody>
@@ -178,6 +178,8 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
     </tbody>
 </table>
 
+_Nb : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository
+</a>
 Meta-Map
 -
 Map about related repositories :   
