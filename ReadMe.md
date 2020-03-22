@@ -27,9 +27,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     </tbody>
 </table>
 
-The SEAMLESS initiative is trying to provide a _deep, clear and shared understanding_ about how to build __"Fully Distributed Semantic-Driven Business Applications"__
-
-Goal
+Introduction
 -
 The goal of this GitHub (meta-)repository is to provide an high level description of :
 * What is the "Big Bicture" ?
