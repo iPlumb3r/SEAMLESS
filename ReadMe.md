@@ -165,7 +165,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>How To, ...</td>
             <td>KeepLink (by an Aficionado)</td>
             <td>N/A</td>
-            <td>N/A</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1860">#1860</a></td>  
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Holochain">Holochain</a></td>
@@ -173,7 +173,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>How To, ...</td>
             <td>Holochain (by an Holonaut)</td>
             <td><a href="https://t.me/HoloVinci">HoloVinci</a></td></td>
-            <td>N/A</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1451">#1451</a></td>  
         </tr>
     </tbody>
 </table>
