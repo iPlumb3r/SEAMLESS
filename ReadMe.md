@@ -27,11 +27,13 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <th>Main Deliverables</th>
             <th>Comment</th>
             <th>Telegram</th>
+            <th>EBR ID (Initiative)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>OVERVIEW</td>
+            <td>=============</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
@@ -43,9 +45,11 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>A Big Picture of "This" !</td>
             <td>And potentialy - also - a RoadMap (but not now)</td>
             <td><a href="https://t.me/SeamlessBigPicture">Seamless BP</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td>TARGETS</td>
+            <td>=============</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
@@ -57,9 +61,11 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td></td>
             <td>COMPaaS ?</td>
             <td></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td>BOOTSTRAP</td>
+            <td>------------</td>
             <td>------------</td>
             <td>------------</td>
             <td>------------</td>
@@ -71,6 +77,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>Enterprise Architecture Models (EAMs)</td>
             <td>Where P??? stand for : Possible, Probable, Potential, Pitoyable, Perfect, Pragmatic, Panoptical, Prismatic, Perpetual, ... depending of the mood ;-)</td>
             <td><a href="https://t.me/pEAr4pEEr">pEAr4pEEr</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a></td>
@@ -78,6 +85,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>EB Repositories</td>
             <td>Currently implemented with <a href="https://www.topincs.com/">Topincs</a> (see online) : <a href="https://www.topincs.com/EntangledBootstrap/">Prod</a> & and <a href="https://www.topincs.com/iPlumb3rSandBox/">Dev</a> AND <a href="http://keeplink.com/">KeepLink</a> (off line)</td>
             <td><a href="https://t.me/EntangledBootstrap">EBR</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a></td>
@@ -85,9 +93,11 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>Ecosystem Mapping Model (E2M)</td>
             <td>E2M = "Intentional + "Extensional" Modules</td>
             <td><a href="https://t.me/EcosystemMapping">E2M</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td>FOUNDATIONS</td>
+            <td>------------</td>
             <td>------------</td>
             <td>------------</td>
             <td>------------</td>
@@ -99,6 +109,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>Representation And Visualization Models (RVMs)</td>
             <td>-</td>
             <td>N/A</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
@@ -106,6 +117,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>All about "How to identify & denote Concept(s) we are thinking about ?"</td>
             <td>-</td>
             <td><a href="https://t.me/TheScribeProject">TheScribeProject</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a></td>
@@ -113,9 +125,11 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>KeQuarks Model</td>
             <td>-</td>
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>  
         </tr>
         <tr>
             <td>METHOLOGIES</td>
+            <td>=============</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
@@ -127,6 +141,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>A Metholology</td>
             <td>Work In Stand-By</td>
             <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Dicho-Scope">Dicho-Scope</a></td>
@@ -134,12 +149,14 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>Semantic Lenses</td>
             <td>Work In Stand-By</td>
             <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>TECHNOLOGIES</td>
             <td>=============</td>
             <td>=============</td>
             <td>=============</td>
+            <td>=============</td>   
             <td>=============</td>
         </tr> 
         <tr>
@@ -148,6 +165,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>How To, ...</td>
             <td>KeepLink (by an Aficionado)</td>
             <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Holochain">Holochain</a></td>
@@ -155,6 +173,7 @@ __Note__ : The name of the GitHub reprositories (and/or the on of the Telegram G
             <td>How To, ...</td>
             <td>Holochain (by an Holonaut)</td>
             <td><a href="https://t.me/HoloVinci">HoloVinci</a></td></td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
