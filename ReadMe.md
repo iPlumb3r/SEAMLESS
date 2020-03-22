@@ -17,7 +17,7 @@ Answering to this question :
 
 Initiatives & related GitHub Repositories
 -
-_Note 1: The name of the GitHub reprositories (and/or the on of the Telegram Groups) are sometime more inspired by the name of the main deliverable than the name of the initiative/project (but it does'nt really matters ;-)_
+_Note 1 : The name of the GitHub reprositories (and/or the on of the Telegram Groups) are sometime more inspired by the name of the main deliverable than the name of the initiative/project (but it does'nt really matters ;-)_
 
 _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
 
