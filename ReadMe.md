@@ -188,7 +188,7 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
     </tbody>
 </table>
 
-Meta-Map
+Big Picture
 -
 Map about related repositories :   
 (A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">here</a>)
