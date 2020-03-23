@@ -193,7 +193,7 @@ Big Picture
 Map about related repositories :   
 (A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">here</a>)
 
-![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-14.png)
+![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-03-23.png)
 
 Where Used
 -
