@@ -17,7 +17,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Initiative</th>
             <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
         </tr>
         <tr>
             <th>Deliverable</th>
