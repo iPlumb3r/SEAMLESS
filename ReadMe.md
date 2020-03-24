@@ -16,7 +16,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     <tbody>
         <tr>
             <th>Initiative</th>
-            <td>Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications"</td>
+            <td>Provided « as a service / platform » business applications (fully distributed & semantic driven) for helping organizations to design and produce cyber-physical products and associated services in an efficient way !</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
         </tr>
         <tr>
@@ -30,7 +30,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
 Introduction
 -
 The goal of this GitHub (meta-)repository is to provide an high level description of :
-* What is the "Big Bicture" ?
+* What is the "Big Bicture" (Trying to provide a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications")?
 * How related iniatives/projects (and associated GitHub repositories) are connected together ?
 
 Motivation
