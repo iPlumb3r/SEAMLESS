@@ -132,20 +132,20 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>  
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a></td>
-            <td>Generic Fully Distributed Semantic-Driven Application</td>
-            <td>Generic Code powered by Specific Ontologies in order to delivers accurate functional and/or business applications</td>
-            <td>-</td>
-            <td><a href="https://t.me/Rhizome">Rhizome</a></td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>  
-        </tr>
-        <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a></td>
             <td>"Holy Grail Quest" for Knowledge Engineering "Elementary Particles"</td>
             <td>KeQuarks Model</td>
             <td>-</td>
             <td><a href="https://t.me/KeQuarks">KeQuarks</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>  
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a></td>
+            <td>Generic Fully Distributed Semantic-Driven Application</td>
+            <td>Generic Code powered by Specific Ontologies in order to delivers accurate functional and/or business applications</td>
+            <td>-</td>
+            <td><a href="https://t.me/Rhizome">Rhizome</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>  
         </tr>
         <tr>
             <td>METHOLOGIES</td>
