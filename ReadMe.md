@@ -31,7 +31,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Telegram</th>
-            <td><a href="https://t.me/SeamlessBP">https://t.me/SeamlessBP</a></td>
+            <td><a href="https://t.me/Seamlesss">https://t.me/Seamlesss</a></td>
             <td>N/A</td>
         </tr>
     </tbody>
