@@ -94,6 +94,14 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
             <td>------------</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/iPlumb3r/BigRope">BigRope</a></td>
+            <td>An application for designing and managing distributed business applications</td>
+            <td>The core meta-appication</td>
+            <td></td>
+            <td><a href="https://t.me/BigRope">BigRope</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1908">#1908</a></td>  
+        </tr>
+        <tr>
             <td><a href="https://github.com/iPlumb3r/pEAr4pEEr">pEAr4pEEr</a></td>
             <td>P??? Enterprise Architecture Reference for P2P Extended Ecosystem Partners ...</td>
             <td>Enterprise Architecture Models (EAMs)</td>
