@@ -39,7 +39,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
 
 Introduction
 -
-The goal of the SEAMLESS Initiative is to provide « as a service / platform » business applications (fully distributed & semantic driven) for helping organizations to design and produce cyber-physical products and associated services in an efficient way !
+The goal of the __SEAMLESS__ initiative is to provide « as a service / platform » business applications (fully distributed & semantic driven) for helping organizations to design and produce cyber-physical products and associated services in an efficient way !
 
 The goal of this GitHub repository is to provide an high level description of :
 * What is the "Big Bicture" (Towards a deep, clear and shared understanding about how to build "Fully Distributed Semantic-Driven Business Applications")?
