@@ -24,6 +24,16 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td> <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Big Picture</a>, Methods & Tools.</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <th>Tags</th>
+            <td>#BusinessDrivenModels #ModelDrivenBusinesses #SemanticTechnologies #DistributedWeb #EcosystemMapping #EnterpriseArchitecture #ProductLifecycleManagement #SemanticCartography</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Telegram</th>
+            <td><a href="https://t.me/SeamlessBigPicture">https://t.me/SeamlessBigPicture</a></td>
+            <td>N/A</td>
+        </tr>
     </tbody>
 </table>
 
