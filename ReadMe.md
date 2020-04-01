@@ -1,4 +1,4 @@
-SEAMLESS "Big Picture"
+SEAMLESS > "Big Picture"
 ==
 
 Initiative ID Card
