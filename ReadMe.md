@@ -21,7 +21,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Deliverable</th>
-            <td> <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Big Picture</a>, Methods & Tools + Sum of the Deliverables of all related initiatives (See hereafter)</td>
+            <td><a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Big Picture</a>, Methods & Tools + Sum of the Deliverables of all related initiatives (See hereafter)</td>
             <td>N/A</td>
         </tr>
         <tr>
