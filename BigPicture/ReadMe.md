@@ -9,3 +9,5 @@ Map about related GitHub repositories and EBR "Entry Points"
 
 Alternative Map
 -
+
+![BigPicture2](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture2_2020-04-02.png)
