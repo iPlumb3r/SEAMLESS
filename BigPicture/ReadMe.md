@@ -7,7 +7,8 @@ Map about related GitHub repositories and EBR "Entry Points"
 
 ![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-04-01.png)
 
-Alternative Map
+
+A more "structured" representationn / visualization
 -
 
 ![BigPicture2](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture2_2020-04-02.png)
