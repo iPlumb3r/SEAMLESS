@@ -218,10 +218,7 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
 
 Big Picture
 -
-Map about related repositories :   
-(A clicable map is available <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">here</a>)
-
-![BigPicture](https://github.com/iPlumb3r/BigPicture/blob/master/Images/BigPicture_2020-04-01.png)
+See <a href="https://github.com/iPlumb3r/SEAMLESS/blob/master/BigPicture/ReadMe.md">here</a>
 
 Where Used
 -
