@@ -1,4 +1,4 @@
-Used Cases
+Use Cases
 ==
 
 The most critical use case for SEAMLESS is to deal with meta-modeling ...
