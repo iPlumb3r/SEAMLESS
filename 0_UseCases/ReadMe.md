@@ -8,7 +8,7 @@ Meta-Modeling
 
 A very 1st try to show all required __level of abstration__ needed for the SEAMLESS inititive ...
 
-Ingrediant of this use case
+Mode about key "ingredients" of this use case :
 * <a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a> initiative => KeQuarks (Meta-)Model
 * <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> => Onto-Terminology Models (OTMs)
 * <a href="https://github.com/iPlumb3r/Prism">Prism</a> initiative => Representation & Visualization Models (RVMs)
