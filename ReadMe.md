@@ -236,7 +236,7 @@ See <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Contribute
 Similar Projects
 -
 * CTZNMuv- : https://github.com/ActiveCTZN/CTZNMuv-/tree/master
-* Communerter : https://gitlab.adullact.net/pixelhumain/codoc
+* Communecter : https://gitlab.adullact.net/pixelhumain/codoc
 
 Licence
 -
