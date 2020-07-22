@@ -1,4 +1,4 @@
-# xLM Axis Intentional Facet "Deep Explanation"
+# xLM Axis : Intentional Facet "Deep Explanation"
 
 The 3 "Intentional" Axis combined togheter could explain the signification of "Type" / "Stage" used in the context of Enterprise Architecture / Software Developement / Product Lifecyce Management / ...
 
