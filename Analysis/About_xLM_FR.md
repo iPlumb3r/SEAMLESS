@@ -1,6 +1,6 @@
 # A propos du xLM
 
-2 éléments de contexte relatifs au marché du PLM m'ont conduit récemment à reprendre la réflexion que j'avais initié sur "les invariants métier du PLM" (https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/) ...
+2 éléments de contexte relatifs au marché du PLM m'ont conduit récemment à reprendre la réflexion que j'avais initié sur "les invariants métier du PLM" (https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/) ...   
 ... reflexion qui s'intéressait à ce qui est commun - en matière de PLM - entre les différentes industries.
 Ces éléments de contexte sont :
 * La diversification des solutions de "Lifecycle Management" : PLM, SLM, AML
