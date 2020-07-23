@@ -37,3 +37,9 @@ La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3
 (Rq : Toutes les "cellules" n'étant pas forcement pertinantes)
 
 > Cela permet déjà de comprendre pourquoi les modèles applicatifs des solutions PLM sont potentiellement si compliqués
+
+## Construction du la facette "BE" (Extension)
+![BE_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-23.png)
+
+## Construction du la facette "DO" (Intention)
+![DO_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_INT_DeepExplanation_2020-07-23.png)
