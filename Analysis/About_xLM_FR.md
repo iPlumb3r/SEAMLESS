@@ -26,7 +26,7 @@ J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui 
 
 ## La problématique xLM
 J'ai repris la réflexion en me demandant quels étaient tout les "critères élémentaires" qui permettaient de "positionner" une chose à concevoir :   
-* soit par rapport la nature de cette <Chose> (i.e . son "Extension" / Facette "BE" : ce qu'elle EST),    
+* soit par rapport à la nature de cette <Chose> (i.e . son "Extension" / Facette "BE" : ce qu'elle EST),    
 * soit par rapport à son cycle de vie (i.e. son "Intention" / Facette "DO" : ce qu'elle FAIT).   
 
 J'ai identifié 12 de ces "critères élémentaires" (Mais il y en a peut-être d'autre ;-)
