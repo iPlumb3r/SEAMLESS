@@ -7,7 +7,7 @@ Ces éléments de contexte sont :
 * La diversification des solutions de "Lifecycle Management" : PLM, SLM, AML
 * La complexité des modèles applicatifs de ces solutions
 
-J'ai repris cette réflexion avec 2 objectifs :
+J'ai donc repris cette réflexion avec 2 objectifs :
 * Expliquer d'où vient la généricité et comment émergent les invariant métiers (Ce qui est commun à TOUTES les industries)
 * Traiter le sujet de la spécificité (Ce qui propre à CHAQUE industrie, voire à CHAQUE entreprise)
 
@@ -23,4 +23,6 @@ En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est �
   
 ## Contexte : La compléxité des modèles
 J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui sous-tendent ce type de solution, et chaque fois j'ai été effaré de la complexité de ces modèles, ressemblant souvent à des "usine à gaz", mélangeant des concepts qui aurait du être proprement séparés, ou au contraire ne proposant pas de concept plus abstrait succeptible de traiter telle ou telle communalité ! 
-  
+
+## La problématique xLM
+J'ai repris la réflexion en me demandant quelle était tout les "critères élémentaires" qui permettaient de "positionner" une <Chose> à concevoir soit par rapport la nature de cette <Chose> (i.e . son "Extension" : ce qu'elle EST), soit par rapport à son cycle de vie (i.e. son "Intention" :  ce qu'elle FAIT)
