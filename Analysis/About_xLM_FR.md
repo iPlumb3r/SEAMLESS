@@ -4,7 +4,7 @@
 ... reflexion qui s'intéressait à ce qui est commun - en matière de PLM - entre les différentes industries. 
 
 Ces éléments de contexte sont :
-* La diversification des solutions de "Lifecycle Management" : PLM, SLM, AML
+* La diversification des solutions de "Lifecycle Management" : PLM, SLM, AML, ...   
 * La complexité des modèles applicatifs de ces solutions
 
 J'ai donc repris cette réflexion avec 2 objectifs :
