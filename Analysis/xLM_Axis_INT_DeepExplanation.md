@@ -11,4 +11,4 @@ The 3 "Intentional" Axis combined togheter could explain the signification of "T
 
 1st try of combining the 7 "Extensional" Axis in order to retrieve all naure of things tha could be designed ...
 
-![alt text](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-23.png)
+![alt text](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-24.png)
