@@ -30,3 +30,7 @@ J'ai repris la réflexion en me demandant quelle était tout les "critères él�
 J'ai identifié 12 de ces "critères élémentaires" (qui ne prennent chacun que 2 ou 3 valeurs)
 * 7 critères "intentionnels"
 * 5 critères "extensionnels"
+
+
+La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3 = 32 X 432 = 13824 cellules
+(Rq : Toutes les "cellules" n'étant pas forcement pertinantes)
