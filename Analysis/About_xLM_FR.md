@@ -5,7 +5,7 @@
 
 Ces éléments de contexte sont :
 * La diversification des solutions de "Lifecycle Management" : PLM, SLM, AML, ...   
-* La complexité des modèles applicatifs de ces solutions
+* La fréquente complexité des modèles applicatifs qui "motorisent" ces solutions
 
 J'ai donc repris cette réflexion avec 2 objectifs :
 * Expliquer d'où vient la généricité et comment émergent les invariant métiers (Ce qui est commun à TOUTES les industries)
