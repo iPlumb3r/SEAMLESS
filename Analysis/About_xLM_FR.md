@@ -36,4 +36,4 @@ J'ai identifié 12 de ces "critères élémentaires" (qui ne prennent chacun que
 La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3 = 32 X 432 = 13824 cellules
 (Rq : Toutes les "cellules" n'étant pas forcement pertinantes)
 
-> Cela permet déjà de comprendre pourquoi les modèles applicatif des solutions PLM sont potentiellement si compliqués
+> Cela permet déjà de comprendre pourquoi les modèles applicatifs des solutions PLM sont potentiellement si compliqués
