@@ -50,6 +50,6 @@ En combinant les différents critères élémentaires de la facette "BE" (Extens
 
 ## Construction de la facette "DO" (Intention)
 En combinant les différents critères élémentaires de la facette "DO" (Intention), ...   
-... on parvient à reconstituer les différentes étape de son cycle de vie.
+... on parvient à reconstituer les différentes étapes de son cycle de vie.
 
 ![DO_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_INT_DeepExplanation_2020-07-23.png)
