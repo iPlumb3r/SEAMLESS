@@ -46,7 +46,7 @@ La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3
 En combinant les différents critères élémentaires de la facette "BE" (Extension), ...   
 ... on parvient à positionner la nature de la chose à concevoir.
 
-![BE_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-23.png)
+![BE_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-24.png)
 
 ## Construction de la facette "DO" (Intention)
 En combinant les différents critères élémentaires de la facette "DO" (Intention), ...   
