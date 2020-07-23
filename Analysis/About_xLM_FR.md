@@ -33,7 +33,7 @@ J'ai identifié 12 de ces "critères élémentaires" (qui ne prennent chacun que
 
 ![xLM_Axis](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_2020-07-24.png)
 
-La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3 = 32 X 432 = 13824 cellules
+La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3 = 32 X 432 = 13824 cellules !    
 (Rq : Toutes les "cellules" n'étant pas forcement pertinantes)
 
 > Cela permet déjà de comprendre pourquoi les modèles applicatifs des solutions PLM sont potentiellement si compliqués
