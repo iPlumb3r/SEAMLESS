@@ -25,4 +25,8 @@ En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est �
 J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui sous-tendent ce type de solution, et chaque fois j'ai été effaré de la complexité de ces modèles, ressemblant souvent à des "usine à gaz", mélangeant des concepts qui aurait du être proprement séparés, ou au contraire ne proposant pas de concept plus abstrait succeptible de traiter telle ou telle communalité ! 
 
 ## La problématique xLM
-J'ai repris la réflexion en me demandant quelle était tout les "critères élémentaires" qui permettaient de "positionner" une <Chose> à concevoir soit par rapport la nature de cette <Chose> (i.e . son "Extension" : ce qu'elle EST), soit par rapport à son cycle de vie (i.e. son "Intention" :  ce qu'elle FAIT)
+J'ai repris la réflexion en me demandant quelle était tout les "critères élémentaires" qui permettaient de "positionner" une chose à concevoir soit par rapport la nature de cette <Chose> (i.e . son "Extension" : ce qu'elle EST), soit par rapport à son cycle de vie (i.e. son "Intention" : ce qu'elle FAIT).
+
+J'ai identifié 12 de ces "critères élémentaires" (qui ne prennent chacun que 2 ou 3 valeurs)
+* 7 critères "intentionnels"
+* 5 critères "extensionnels"
