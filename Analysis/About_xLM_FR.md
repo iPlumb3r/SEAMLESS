@@ -18,7 +18,7 @@ Le marché historique du PDM (Product Data Management) a évoluer à la fin des 
 On peut alors raisonnablement se demander pourquoi autant de solutions différentes pour finalement gérer le cycle de vie d'une chose, dont certe la "nature" est différente (produit manufacturé, usine, service, logiciel, ...) mais pour laquelle la problématique générale reste la même !
 > D'autant plus que dans de nombreux cas ce qui doit être conçu, dévelopé et fabriqué est un fait un système consitué à la fois de produit, de logiciel et de service, il n'est donc pas forcement très commode d'avoir 3 applications différentes pour disposer d'une vue unifié d'un produit complexe !!!
 
-En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est à dire des solution permettant de définir, designer, developer et produire une <Chose> quelque soit la nature de cette <Chose> ....
+En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est à dire des solution permettant de définir, designer, developer et produire une chose __quelque soit la nature de cette chose__ ....
   
   
 ## Contexte : La compléxité des modèles
