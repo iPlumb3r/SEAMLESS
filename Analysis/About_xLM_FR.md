@@ -33,7 +33,7 @@ J'ai identifié 12 de ces "critères élémentaires" (Mais il y en a peut-être 
 * 7 critères "intentionnels"
 * 5 critères "extensionnels"
 
-Remarque : chaque critère est potentiellement valorisé que parmi 2 ou 3 valeurs
+Remarque : chaque critère n'est potentiellement valorisé que parmi 2 ou 3 valeurs
 
 ![xLM_Axis](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_2020-07-24.png)
 
