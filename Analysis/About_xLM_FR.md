@@ -27,7 +27,9 @@ J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui 
 ## La problématique xLM
 J'ai repris la réflexion en me demandant quels étaient tout les "critères élémentaires" qui permettaient de "positionner" une chose :   
 * soit par rapport à la nature de cette <Chose> (i.e . son "Extension" / Facette "BE" : ce qu'elle EST),    
-* soit par rapport à son cycle de vie (i.e. son "Intention" / Facette "DO" : ce qu'elle FAIT).   
+* soit par rapport à son cycle de vie (i.e. son "Intention" / Facette "DO" : ce qu'elle FAIT).  
+  
+> plus d'information sur la dichotomie "Intention (DO) VS Extention (BE) " : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/About_Intentional_VS_Extensional_Dichotomy_FR.md">ici</a> 
 
 J'ai identifié 12 de ces "critères élémentaires" (Mais il y en a peut-être d'autre ;-)
 * 7 critères "intentionnels"
