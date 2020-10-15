@@ -22,7 +22,7 @@ En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est �
   
   
 ## Contexte : La compléxité des modèles
-J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui sous-tendent ce type de solution, et chaque fois j'ai été effaré de la complexité de ces modèles, ressemblant souvent à des "usine à gaz", mélangeant des concepts qui aurait du être proprement séparés, ou au contraire ne proposant pas de concept plus abstrait succeptible de traiter telle ou telle communalité ! 
+J'ai souvent eu l'occasion de prendre connaissance des modèles applicatifs qui sous-tendent ce type de solution, et chaque fois j'ai été effaré de la complexité de ces modèles, ressemblant souvent à des "usine à gaz", mélangeant des concepts qui aurait du être proprement séparés, ou au contraire ne proposant pas de concept plus abstrait succeptible de prendre en compte telle ou telle communalité ! 
 
 ## La problématique xLM
 J'ai repris la réflexion en me demandant quels étaient tout les "critères élémentaires" qui permettaient de "positionner" une chose :   
