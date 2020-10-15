@@ -49,7 +49,7 @@ La taille de la matrice théorique résultante est de  2x2x2x2x2 X 2x2x2x2x3x3x3
 En combinant les différents critères élémentaires de la facette "DO" (Intention), ...   
 ... on parvient à reconstituer les différentes étapes de son cycle de vie.
 
-> Cette facette apporte la généricité
+> Cette facette apporte la généricité (=> Ce qui est commun à toute les industries)
 
 ![DO_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_INT_DeepExplanation_2020-07-23.png)
 
@@ -57,7 +57,7 @@ En combinant les différents critères élémentaires de la facette "DO" (Intent
 En combinant les différents critères élémentaires de la facette "BE" (Extension), ...   
 ... on parvient à positionner la nature de la chose à concevoir.
 
-> Cette facette apporte la spécificité
+> Cette facette apporte la spécificité (=> Ce qui est propre à chaque industrie)
 
 ![BE_Facet](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_EXT_DeepExplanation_2020-07-24.png)
 
