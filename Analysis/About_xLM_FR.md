@@ -32,10 +32,11 @@ J'ai repris la réflexion en me demandant quels étaient tout les "critères él
 > plus d'information sur la dichotomie "Intention (DO) VS Extention (BE) " : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/About_Intentional_VS_Extensional_Dichotomy_FR.md">ici</a> 
 
 J'ai identifié 12 de ces "critères élémentaires" (Mais il y en a peut-être d'autre ;-)
-* 7 critères "intentionnels"
-* 5 critères "extensionnels"
+* 7 critères "intentionnels" (Ayant donc rapport avec ce que les choses FONT)
+* 5 critères "extensionnels" (Ayant donc rapport avec ce que les choses SONT)
 
-Remarque : chaque critère n'est potentiellement valorisé que parmi 2 ou 3 valeurs
+> Remarque 1 : comme les choses FONT et SONT tout à la fost, il s'agit d'axes d'analyse "orthogonaux"
+> Remarque 2 : chaque critère n'est potentiellement valorisé que parmi 2 ou 3 valeurs
 
 ![xLM_Axis](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_2020-07-24.png)
 
