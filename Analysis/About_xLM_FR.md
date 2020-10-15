@@ -35,7 +35,7 @@ J'ai identifié 12 de ces "critères élémentaires" (Mais il y en a peut-être 
 * 7 critères "intentionnels" (Ayant donc rapport avec ce que les choses FONT)
 * 5 critères "extensionnels" (Ayant donc rapport avec ce que les choses SONT)
 
-> Remarque 1 : comme les choses FONT et SONT tout à la fost, il s'agit d'axes d'analyse "orthogonaux"
+> Remarque 1 : comme les choses FONT et SONT tout à la fois, il s'agit d'axes d'analyse "orthogonaux"
 > Remarque 2 : chaque critère n'est potentiellement valorisé que parmi 2 ou 3 valeurs
 
 ![xLM_Axis](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/xLM_Axis_2020-07-24.png)
