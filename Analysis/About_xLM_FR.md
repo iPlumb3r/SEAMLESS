@@ -19,7 +19,7 @@ On peut alors raisonnablement se demander pourquoi autant de solutions différen
 > D'autant plus que dans de nombreux cas ce qui doit être conçu, dévelopé et fabriqué est un fait un système consitué à la fois de produit, de logiciel et de service, il n'est donc pas forcement très commode d'avoir 3 applications différentes pour disposer d'une vue unifié d'un produit complexe !!!
 
 En tout logique on devrait plutôt voir apparaitre des solutions de xLM, c'est à dire des solutions permettant de définir, designer, developer et produire une chose __quelque soit la nature de cette chose__   
-Et pourtant, ce n'est PAS DU TOUT ce qu'il se passe !!!)
+Et pourtant, ce n'est PAS DU TOUT ce qu'il se passe !!!
   
   
 ## Contexte : La compléxité des modèles
