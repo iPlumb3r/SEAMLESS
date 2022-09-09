@@ -13,7 +13,7 @@ J'ai donc repris cette réflexion avec 2 objectifs :
 
 ## Contexte : La diversification du marché
 Le marché historique du PDM (Product Data Management) a évoluer à la fin des années 1990 vers le PLM (Product Lifecycle Management), puis il s'est progressivement "segmenté/diversifié",  ...   
-... le "P" pouvant signifier non plus "Product" (c-à-d "Ce qui est fabriqué"), mais "Plant" (c-à-d "Ce qui sert à fabriquer"), mais aussi "Prestation" avec l'arrivé du SLM (Service Lifecycle Management) ou encore "Progiciel" avec l'AML (Application Lifecycle Mangement).   
+... le "P" pouvant signifier non plus "Product" (c-à-d "Ce qui est fabriqué"), mais "Plant" (c-à-d "Ce qui sert à fabriquer"), mais aussi "Prestation" avec l'arrivé du SLM (Service Lifecycle Management) ou encore "Progiciel" avec l'AML (Application Lifecycle Management).   
 
 On peut alors raisonnablement se demander pourquoi autant de solutions différentes pour finalement gérer le cycle de vie d'une chose, dont certe la "nature" est différente (produit manufacturé, usine, service, logiciel, ...) mais pour laquelle la problématique générale reste la même !
 > D'autant plus que dans de nombreux cas ce qui doit être conçu, dévelopé et fabriqué est un fait un système constitué à la fois de produit, de logiciel et de service, il n'est donc pas forcement très commode d'avoir 3 applications différentes pour disposer d'une vue unifié d'un produit complexe !!!
