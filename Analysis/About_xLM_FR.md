@@ -20,6 +20,7 @@ On peut alors raisonnablement se demander pourquoi autant de solutions différen
 
 En toute logique on devrait plutôt voir apparaitre des solutions de xLM, c'est à dire des solutions permettant de définir, designer, developer et produire une chose __quelque soit la nature de cette chose__.    
 Et pourtant, ce n'est PAS DU TOUT ce qu'il se passe !!!
+> Tout ce passe comme la __nature__ de la chose à concevoir était plus important que le fait qu'il faille __concevoir__ quelchose (indépandement de la nature de cette chose) 
   
   
 ## Contexte : La compléxité des modèles
