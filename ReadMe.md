@@ -207,7 +207,7 @@ _Note 2 : EBR ID allows to semantically navigate in the <a href="https://www.top
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Holochain">Holochain</a></td>
-            <td>All about <a href="https://holochain.org/">KeepLink</a> and the starting journey in the distributed web landscape ... </td>
+            <td>All about <a href="https://holochain.org/">Holochain</a> and the starting journey in the distributed web landscape ... </td>
             <td>How To, ...</td>
             <td>Holochain (by an Holonaut)</td>
             <td><a href="https://t.me/HoloVinci">HoloVinci</a></td></td>
